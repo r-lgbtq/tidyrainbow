@@ -1,0 +1,125 @@
+object_id,name_of_organization_program,category,city_of_organization_program,zip_code_of_organization_program
+1,Colors LGBTQ Youth Counseling Center,Center,Culver City,90230
+2,ILP (Independent Living Program),Center,Los Angeles,90010
+3,Los Angeles LGBT Center - McDonald/Wright Building,Center,Los Angeles,90028
+4,Los Angeles LGBT Center - The Village at Ed Gould Plaza,Center,Los Angeles,90038
+5,Los Angeles LGBT Center - Youth Center on Highland,Center,Los Angeles,90038
+6,Mi Centro,Center,Los Angeles,90033
+7,San Gabriel Valley LGBTQ Center,Center,Arcadia,91016
+8,South Bay LGBT Center,Center,Torrance,90504
+9,The Center Long Beach,Center,Long Beach,90814
+10,The OUTreach Center,Center,Lancaster,93534
+11,Walden Family Services,Center,Encino,91316
+12,Youth Emerging Stronger (Formerly LAYN),Center,Los Angeles,90028
+13,API Equality,Communities of Color,Los Angeles,90017
+14,Jordan/Rustin Coalition,Communities of Color,Los Angeles,90012
+15,5 Keys Charter School at the LA LGBT Center,Education,Los Angeles,90038
+16,Latino Equality Alliance,Education,Los Angeles,90033
+17,ONE National Gay & Lesbian Archives at the USC Libraries,Education,Los Angeles,90007
+18,Project Angel Food,Food,Los Angeles,90038
+19,AHF Healthcare Center - Downtown LA,Health,Los Angeles,90015
+20,AHF Healthcare Center - Hollywood,Health,Los Angeles,90027
+21,APLA Health at Tarzana Treatment Center,Health,Lancaster,93534
+22,Asian Pacific AIDS Intervention Team (APIAT),Health,Los Angeles,90015
+23,Being Alive - People with HIV/AIDS Action Coalition,Health,West Hollywood,90046
+24,Bienestar,Health,Los Angeles,90027
+25,Black AIDS Institute,Health,Los Angeles,90057
+26,California STD/HIV Prevention Training Center,Health,Long Beach,90807
+27,Children’s Hospital Los Angeles-Tranny Rockstar,Health,Los Angeles,90027
+28,Common Ground-West Side HIV Community Center,Health,Venice,90201
+29,Destinations for Teens,Health,Woodland Hills,91367
+30,Didi Hirsch Mental Health Services (18 & Over),Health,Los Angeles,90035
+31,Friends Community Center,Health,Los Angeles,90028
+32,Gleicher/Chen Health Center,Health,Los Angeles,90016
+33,LGBT Center OC,Center,Santa Ana,92701
+34,LA Gender Center,Health,Los Angeles,90025
+35,LA LGBT Health Center Services,Health,Los Angeles,90028
+36,Long Beach- Safe Refuge,Health,Long Beach,90804
+37,Minority AIDS Project,Health,Los Angeles,90016
+38,My Transwellness Center,Health,Los Angeles,90010
+39,Pedro Zamora Youth HIV Clinic,Health,Los Angeles,90028
+40,Penny Lane Centers - Commerce,Health,Commerce,90040
+41,Penny Lane Centers - Headquarters,Health,North Hills,91343
+42,Penny Lane Centers - North Hollywood,Health,North Hollywood,91606
+43,Planned Parenthood - Dorothy Hecht Health Center,Health,Los Angeles,90003
+44,Planned Parenthood - Eagle Rock Health Center,Health,Los Angeles,90041
+45,Planned Parenthood - Hollywood Health Center,Health,Los Angeles,90029
+46,Planned Parenthood - S. Mark Taper Foundation Center for Medical Training,Health,Los Angeles,90007
+47,The Los Angeles LGBT Center - WeHo,Center,West Hollywood,90069
+48,The LGBT Community Center of the Desert,Center,Palm Springs,92262
+49,The San Diego LGBT Community Center - Centre Street - Hillcrest,Center,San Diego,92103
+50,Planned Parenthood - West Hollywood Health Center,Health,West Hollywood,90069
+51,The San Diego LGBT Community Center - Hillcrest Youth Center,Center,San Diego,92103
+52,The San Diego LGBT Community Center - Sunburst Youth Housing Project,Center,San Diego,92101
+53,Planned Parenthood Los Angeles - South Bay Health Center,Health,Lawndale,90260
+54,Everyone Is Gay,Education,Pasadena,91105
+55,Didi Hirsch Mental Health Services (18 & Over),Health,Inglewood,90301
+56,St. John's Well Child and Wellness Center,Health,Los Angeles,90037
+57,StepUp,Health,Santa Monica,90404
+58,The Center for Transgender Youth Health and Development,Health,Los Angeles,90027
+59,The David Geffen Center,Health,Los Angeles,90005
+60,Valley Teen Clinic,Health,North Hollywood,91605
+61,1736 Family Crisis Center,Housing,Los Angeles,90018
+62,Alexandria House,Housing,Los Angeles,90020
+63,Children of the Night,Housing,Van Nuys,91411
+64,Covenant House California,Housing,Hollywood,90027
+65,Emergency Overnight Bed Program - Youth Center On Highland,Housing,Los Angeles,90038
+66,Los Angeles House of Ruth,Housing,Pomona,91768
+67,My Friend’s Place (MFP),Housing,Los Angeles,90028
+68,San Fernando Valley Rescue Mission,Housing,Northridge,91325
+69,Youth Center on Highland,Housing,Hollywood,90038
+70,Youth Emerging Stronger (formerly LAYN),Housing,Los Angeles,90028
+71,ACLU - Socal,Legal,Los Angeles,90017
+72,LA LGBT Center Legal Services,Legal,Los Angeles,90038
+73,Lambda Legal,Legal,Los Angeles,90010
+74,ADORE-LA,Religious,Los Angeles,90027
+75,Against The Stream Buddhist Meditation Society,Religious,Los Angeles,90029
+76,American Catholic Church,Religious,Los Angeles,90027
+77,Catholic Ministry with Lesbian and Gay Persons,Religious,Los Angeles,90033
+78,Christ Chapel of the Valley,Religious,Sun Valley,91352
+79,Congregation Kol Ami,Religious,West Hollywood,90038
+80,Dignity/LA,Religious,Los Angeles,90042
+81,Hollywood Lutheran Church,Religious,Los Angeles,90027
+82,Hollywood United Methodist Church,Religious,Hollywood,90028
+83,IKAR,Religious,Los Angeles,90035
+84,Inspire Spiritual Community,Religious,Los Angeles,90046
+85,Metropolitan Community Church,Religious,Los Angeles,90027
+86,HOPE CENTER- Transitional Age Youth (TAY) ages 16-25,Health,Irwindale,91706
+87,Metropolitan Community Church/United Church of Christ in the Valley,Religious,North Hollywood,91601
+88,Muslims for Progressive Values,Religious,Los Angeles,90028
+89,Neighborhood Unitarian Universalist Church - Pasadena,Religious,Pasadena,91103
+90,Los Angeles County Department of Public Health - Torrance Health Center,Health,Torrance,90502
+91,New Abbey Church,Religious,Pasadena,91103
+92,Renovados Por El Poder De Dios,Religious,Sun Valley,91352
+93,St Thomas the Apostle Episcopal Church,Religious,Los Angeles,90046
+94,Unitarian Universalist Church of Studio City,Religious,Studio City,91604
+95,Friends of Project 10,Scholarship,Pasadena,91105
+96,LifeWorks Scholarships,Scholarship,Los Angeles,90038
+97,Point Foundation,Scholarship,Los Angeles,90036
+98,GSA Network,Support,Los Angeles,90017
+99,PFLAG Long Beach,Support,Long Beach,90803
+100,PFLAG Los Angeles,Support,Los Angeles,90024
+101,PFLAG Pasadena,Support,Pasadena,91103
+102,PFLAG Santa Clarita,Support,Santa Clarita,91355
+103,PFLAG SGV Asia Pacific Islander,Support,Alhambra,91803
+104,Reach LA,Support,Los Angeles,90021
+105,Village Family Services - San Fernando Valley,Support,North Hollywood,91606
+106,Out of the Closet Thrift Store,Health,West Hollywood,90046
+107,Bienestar SABORES Youth Program - Pomona,Youth Program,Pomona,91766
+108,Bienestar SABORES Youth Program-East Los Angeles Center,Youth Program,Los Angeles,90022
+109,Bienestar SABORES Youth Program-Hollywood Center,Youth Program,Los Angeles,90027
+110,Bienestar SABORES Youth Program-Long Beach Center,Youth Program,Long Beach,90813
+111,Bienestar SABORES Youth Program-South Los Angeles Center,Youth Program,Los Angeles,90003
+112,Colors LGBTQ Youth Counseling Center,Youth Program,Culver City,90230
+113,LifeWorks - The Village at Ed Gould Plaza,Youth Program,Los Angeles,90038
+114,Penny Lane Centers - Palmdale,Health,Palmdale,93550
+115,Planned Parenthood - Basics Baldwin Hills/Crenshaw Health Center,Health,Los Angeles,90016
+116,Planned Parenthood - East Los Angeles Health Center,Health,Los Angeles,90022
+117,Planned Parenthood - Stoller Filer Health Center,Health,Los Angeles,90059
+118,UCLA EMPWR Program,Health,Los Angeles,90095
+119,Ascencia,Housing,Glendale,91204
+120,Beth Chayim Chadashim,Religious,Los Angeles,90035
+121,Global Truth Center,Religious,Westlake Village,91361
+122,JQ International,Religious,West Hollywood,90069
+123,West Hollywood United Church of Christ,Religious,Los Angeles,90046
+124,The Lavender Effect,Education,Los Angeles,90012

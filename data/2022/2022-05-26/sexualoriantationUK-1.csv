@@ -1,0 +1,833 @@
+year,location,sexual_orientation,Estimate
+2012,Northern Ireland,Heterosexual or straight,1353
+2012,Northern Ireland,Gay or lesbian,8
+2012,Northern Ireland,Bisexual,9
+2012,Northern Ireland,Other,8
+2012,Northern Ireland,Don't know or refuse,42
+2013,Northern Ireland,Heterosexual or straight,1335
+2013,Northern Ireland,Gay or lesbian,11
+2013,Northern Ireland,Bisexual,16
+2013,Northern Ireland,Other,6
+2013,Northern Ireland,Don't know or refuse,58
+2014,East,Heterosexual or straight,4615
+2014,East Midlands,Heterosexual or straight,3576
+2014,England,Heterosexual or straight,41252
+2014,London,Heterosexual or straight,6240
+2014,North East,Heterosexual or straight,2055
+2014,North West,Heterosexual or straight,5464
+2014,Northern Ireland,Heterosexual or straight,1341
+2014,Scotland,Heterosexual or straight,4232
+2014,South East,Heterosexual or straight,6720
+2014,South West,Heterosexual or straight,4178
+2014,UK,Heterosexual or straight,49221
+2014,Wales,Heterosexual or straight,2396
+2014,West Midlands,Heterosexual or straight,4326
+2014,Yorkshire and The Humber,Heterosexual or straight,4077
+2014,East,Gay or lesbian,46
+2014,East Midlands,Gay or lesbian,31
+2014,England,Gay or lesbian,487
+2014,London,Gay or lesbian,131
+2014,North East,Gay or lesbian,23
+2014,North West,Gay or lesbian,67
+2014,Northern Ireland,Gay or lesbian,13
+2014,Scotland,Gay or lesbian,36
+2014,South East,Gay or lesbian,67
+2014,South West,Gay or lesbian,48
+2014,UK,Gay or lesbian,564
+2014,Wales,Gay or lesbian,28
+2014,West Midlands,Gay or lesbian,34
+2014,Yorkshire and The Humber,Gay or lesbian,41
+2014,East,Bisexual,27
+2014,East Midlands,Bisexual,15
+2014,England,Bisexual,239
+2014,London,Bisexual,51
+2014,North East,Bisexual,4
+2014,North West,Bisexual,19
+2014,Northern Ireland,Bisexual,13
+2014,Scotland,Bisexual,14
+2014,South East,Bisexual,59
+2014,South West,Bisexual,21
+2014,UK,Bisexual,279
+2014,Wales,Bisexual,13
+2014,West Midlands,Bisexual,22
+2014,Yorkshire and The Humber,Bisexual,21
+2014,East,Other,22
+2014,East Midlands,Other,7
+2014,England,Other,139
+2014,London,Other,21
+2014,North East,Other,4
+2014,North West,Other,16
+2014,Northern Ireland,Other,4
+2014,Scotland,Other,11
+2014,South East,Other,20
+2014,South West,Other,17
+2014,UK,Other,166
+2014,Wales,Other,12
+2014,West Midlands,Other,12
+2014,Yorkshire and The Humber,Other,19
+2014,East,Don't know or refuse,94
+2014,East Midlands,Don't know or refuse,95
+2014,England,Don't know or refuse,1247
+2014,London,Don't know or refuse,299
+2014,North East,Don't know or refuse,36
+2014,North West,Don't know or refuse,145
+2014,Northern Ireland,Don't know or refuse,64
+2014,Scotland,Don't know or refuse,73
+2014,South East,Don't know or refuse,189
+2014,South West,Don't know or refuse,120
+2014,UK,Don't know or refuse,1438
+2014,Wales,Don't know or refuse,54
+2014,West Midlands,Don't know or refuse,141
+2014,Yorkshire and The Humber,Don't know or refuse,127
+2015,East,Heterosexual or straight,4650
+2015,East Midlands,Heterosexual or straight,3588
+2015,England,Heterosexual or straight,41595
+2015,London,Heterosexual or straight,6336
+2015,North East,Heterosexual or straight,2061
+2015,North West,Heterosexual or straight,5461
+2015,Northern Ireland,Heterosexual or straight,1359
+2015,Scotland,Heterosexual or straight,4229
+2015,South East,Heterosexual or straight,6787
+2015,South West,Heterosexual or straight,4227
+2015,UK,Heterosexual or straight,49590
+2015,Wales,Heterosexual or straight,2407
+2015,West Midlands,Heterosexual or straight,4386
+2015,Yorkshire and The Humber,Heterosexual or straight,4099
+2015,East,Gay or lesbian,33
+2015,East Midlands,Gay or lesbian,35
+2015,England,Gay or lesbian,515
+2015,London,Gay or lesbian,138
+2015,North East,Gay or lesbian,26
+2015,North West,Gay or lesbian,75
+2015,Northern Ireland,Gay or lesbian,12
+2015,Scotland,Gay or lesbian,46
+2015,South East,Gay or lesbian,80
+2015,South West,Gay or lesbian,50
+2015,UK,Gay or lesbian,599
+2015,Wales,Gay or lesbian,26
+2015,West Midlands,Gay or lesbian,30
+2015,Yorkshire and The Humber,Gay or lesbian,48
+2015,East,Bisexual,25
+2015,East Midlands,Bisexual,19
+2015,England,Bisexual,284
+2015,London,Bisexual,47
+2015,North East,Bisexual,4
+2015,North West,Bisexual,39
+2015,Northern Ireland,Bisexual,15
+2015,Scotland,Bisexual,26
+2015,South East,Bisexual,54
+2015,South West,Bisexual,34
+2015,UK,Bisexual,340
+2015,Wales,Bisexual,14
+2015,West Midlands,Bisexual,31
+2015,Yorkshire and The Humber,Bisexual,31
+2015,East,Other,34
+2015,East Midlands,Other,20
+2015,England,Other,175
+2015,London,Other,28
+2015,North East,Other,3
+2015,North West,Other,16
+2015,Northern Ireland,Other,5
+2015,Scotland,Other,16
+2015,South East,Other,26
+2015,South West,Other,17
+2015,UK,Other,209
+2015,Wales,Other,13
+2015,West Midlands,Other,15
+2015,Yorkshire and The Humber,Other,17
+2015,East,Don't know or refuse,105
+2015,East Midlands,Don't know or refuse,96
+2015,England,Don't know or refuse,1157
+2015,London,Don't know or refuse,289
+2015,North East,Don't know or refuse,33
+2015,North West,Don't know or refuse,150
+2015,Northern Ireland,Don't know or refuse,53
+2015,Scotland,Don't know or refuse,72
+2015,South East,Don't know or refuse,168
+2015,South West,Don't know or refuse,97
+2015,UK,Don't know or refuse,1331
+2015,Wales,Don't know or refuse,49
+2015,West Midlands,Don't know or refuse,105
+2015,Yorkshire and The Humber,Don't know or refuse,115
+2016,East,Heterosexual or straight,4674
+2016,East Midlands,Heterosexual or straight,3586
+2016,England,Heterosexual or straight,41793
+2016,London,Heterosexual or straight,6403
+2016,North East,Heterosexual or straight,2070
+2016,North West,Heterosexual or straight,5487
+2016,Northern Ireland,Heterosexual or straight,1392
+2016,Scotland,Heterosexual or straight,4237
+2016,South East,Heterosexual or straight,6811
+2016,South West,Heterosexual or straight,4257
+2016,UK,Heterosexual or straight,49843
+2016,Wales,Heterosexual or straight,2421
+2016,West Midlands,Heterosexual or straight,4414
+2016,Yorkshire and The Humber,Heterosexual or straight,4090
+2016,East,Gay or lesbian,31
+2016,East Midlands,Gay or lesbian,37
+2016,England,Gay or lesbian,553
+2016,London,Gay or lesbian,149
+2016,North East,Gay or lesbian,26
+2016,North West,Gay or lesbian,76
+2016,Northern Ireland,Gay or lesbian,13
+2016,Scotland,Gay or lesbian,53
+2016,South East,Gay or lesbian,89
+2016,South West,Gay or lesbian,55
+2016,UK,Gay or lesbian,644
+2016,Wales,Gay or lesbian,26
+2016,West Midlands,Gay or lesbian,42
+2016,Yorkshire and The Humber,Gay or lesbian,48
+2016,East,Bisexual,28
+2016,East Midlands,Bisexual,23
+2016,England,Bisexual,331
+2016,London,Bisexual,45
+2016,North East,Bisexual,5
+2016,North West,Bisexual,57
+2016,Northern Ireland,Bisexual,11
+2016,Scotland,Bisexual,43
+2016,South East,Bisexual,62
+2016,South West,Bisexual,39
+2016,UK,Bisexual,404
+2016,Wales,Bisexual,18
+2016,West Midlands,Bisexual,30
+2016,Yorkshire and The Humber,Bisexual,41
+2016,East,Other,45
+2016,East Midlands,Other,34
+2016,England,Other,244
+2016,London,Other,36
+2016,North East,Other,5
+2016,North West,Other,20
+2016,Northern Ireland,Other,5
+2016,Scotland,Other,14
+2016,South East,Other,39
+2016,South West,Other,19
+2016,UK,Other,273
+2016,Wales,Other,10
+2016,West Midlands,Other,24
+2016,Yorkshire and The Humber,Other,22
+2016,East,Don't know or refuse,104
+2016,East Midlands,Don't know or refuse,114
+2016,England,Don't know or refuse,1157
+2016,London,Don't know or refuse,278
+2016,North East,Don't know or refuse,30
+2016,North West,Don't know or refuse,134
+2016,Northern Ireland,Don't know or refuse,30
+2016,Scotland,Don't know or refuse,70
+2016,South East,Don't know or refuse,174
+2016,South West,Don't know or refuse,89
+2016,UK,Don't know or refuse,1305
+2016,Wales,Don't know or refuse,47
+2016,West Midlands,Don't know or refuse,100
+2016,Yorkshire and The Humber,Don't know or refuse,133
+2017,East,Heterosexual or straight,4709
+2017,East Midlands,Heterosexual or straight,3615
+2017,England,Heterosexual or straight,41987
+2017,London,Heterosexual or straight,6472
+2017,North East,Heterosexual or straight,2073
+2017,North West,Heterosexual or straight,5511
+2017,Northern Ireland,Heterosexual or straight,1416
+2017,Scotland,Heterosexual or straight,4287
+2017,South East,Heterosexual or straight,6844
+2017,South West,Heterosexual or straight,4259
+2017,UK,Heterosexual or straight,50114
+2017,Wales,Heterosexual or straight,2425
+2017,West Midlands,Heterosexual or straight,4401
+2017,Yorkshire and The Humber,Heterosexual or straight,4103
+2017,East,Gay or lesbian,39
+2017,East Midlands,Gay or lesbian,38
+2017,England,Gay or lesbian,607
+2017,London,Gay or lesbian,144
+2017,North East,Gay or lesbian,25
+2017,North West,Gay or lesbian,88
+2017,Northern Ireland,Gay or lesbian,14
+2017,Scotland,Gay or lesbian,50
+2017,South East,Gay or lesbian,109
+2017,South West,Gay or lesbian,71
+2017,UK,Gay or lesbian,706
+2017,Wales,Gay or lesbian,34
+2017,West Midlands,Gay or lesbian,51
+2017,Yorkshire and The Humber,Gay or lesbian,42
+2017,East,Bisexual,33
+2017,East Midlands,Bisexual,33
+2017,England,Bisexual,344
+2017,London,Bisexual,45
+2017,North East,Bisexual,6
+2017,North West,Bisexual,41
+2017,Northern Ireland,Bisexual,4
+2017,Scotland,Bisexual,34
+2017,South East,Bisexual,56
+2017,South West,Bisexual,38
+2017,UK,Bisexual,398
+2017,Wales,Bisexual,17
+2017,West Midlands,Bisexual,51
+2017,Yorkshire and The Humber,Bisexual,41
+2017,East,Other,49
+2017,East Midlands,Other,46
+2017,England,Other,284
+2017,London,Other,42
+2017,North East,Other,7
+2017,North West,Other,20
+2017,Northern Ireland,Other,5
+2017,Scotland,Other,18
+2017,South East,Other,38
+2017,South West,Other,21
+2017,UK,Other,319
+2017,Wales,Other,13
+2017,West Midlands,Other,40
+2017,Yorkshire and The Humber,Other,21
+2017,East,Don't know or refuse,77
+2017,East Midlands,Don't know or refuse,95
+2017,England,Don't know or refuse,1093
+2017,London,Don't know or refuse,241
+2017,North East,Don't know or refuse,30
+2017,North West,Don't know or refuse,134
+2017,Northern Ireland,Don't know or refuse,19
+2017,Scotland,Don't know or refuse,47
+2017,South East,Don't know or refuse,165
+2017,South West,Don't know or refuse,104
+2017,UK,Don't know or refuse,1201
+2017,Wales,Don't know or refuse,43
+2017,West Midlands,Don't know or refuse,104
+2017,Yorkshire and The Humber,Don't know or refuse,143
+2018,East,Heterosexual or straight,4751
+2018,East Midlands,Heterosexual or straight,3618
+2018,England,Heterosexual or straight,42063
+2018,London,Heterosexual or straight,6455
+2018,North East,Heterosexual or straight,2073
+2018,North West,Heterosexual or straight,5468
+2018,Northern Ireland,Heterosexual or straight,1419
+2018,Scotland,Heterosexual or straight,4280
+2018,South East,Heterosexual or straight,6890
+2018,South West,Heterosexual or straight,4290
+2018,UK,Heterosexual or straight,50181
+2018,Wales,Heterosexual or straight,2419
+2018,West Midlands,Heterosexual or straight,4413
+2018,Yorkshire and The Humber,Heterosexual or straight,4106
+2018,East,Gay or lesbian,53
+2018,East Midlands,Gay or lesbian,55
+2018,England,Gay or lesbian,628
+2018,London,Gay or lesbian,146
+2018,North East,Gay or lesbian,24
+2018,North West,Gay or lesbian,81
+2018,Northern Ireland,Gay or lesbian,11
+2018,Scotland,Gay or lesbian,44
+2018,South East,Gay or lesbian,98
+2018,South West,Gay or lesbian,70
+2018,UK,Gay or lesbian,723
+2018,Wales,Gay or lesbian,39
+2018,West Midlands,Gay or lesbian,44
+2018,Yorkshire and The Humber,Gay or lesbian,56
+2018,East,Bisexual,49
+2018,East Midlands,Bisexual,28
+2018,England,Bisexual,383
+2018,London,Bisexual,51
+2018,North East,Bisexual,14
+2018,North West,Bisexual,40
+2018,Northern Ireland,Bisexual,6
+2018,Scotland,Bisexual,47
+2018,South East,Bisexual,65
+2018,South West,Bisexual,28
+2018,UK,Bisexual,457
+2018,Wales,Bisexual,21
+2018,West Midlands,Bisexual,62
+2018,Yorkshire and The Humber,Bisexual,45
+2018,East,Other,24
+2018,East Midlands,Other,47
+2018,England,Other,262
+2018,London,Other,52
+2018,North East,Other,9
+2018,North West,Other,25
+2018,Northern Ireland,Other,6
+2018,Scotland,Other,26
+2018,South East,Other,35
+2018,South West,Other,19
+2018,UK,Other,314
+2018,Wales,Other,20
+2018,West Midlands,Other,31
+2018,Yorkshire and The Humber,Other,20
+2018,East,Don't know or refuse,68
+2018,East Midlands,Don't know or refuse,86
+2018,England,Don't know or refuse,1231
+2018,London,Don't know or refuse,347
+2018,North East,Don't know or refuse,23
+2018,North West,Don't know or refuse,190
+2018,Northern Ireland,Don't know or refuse,22
+2018,Scotland,Don't know or refuse,56
+2018,South East,Don't know or refuse,171
+2018,South West,Don't know or refuse,105
+2018,UK,Don't know or refuse,1351
+2018,Wales,Don't know or refuse,42
+2018,West Midlands,Don't know or refuse,107
+2018,Yorkshire and The Humber,Don't know or refuse,135
+2019,East,Heterosexual or straight,4751
+2019,East Midlands,Heterosexual or straight,3612
+2019,England,Heterosexual or straight,41812
+2019,London,Heterosexual or straight,6326
+2019,North East,Heterosexual or straight,2063
+2019,North West,Heterosexual or straight,5477
+2019,Northern Ireland,Heterosexual or straight,1423
+2019,Scotland,Heterosexual or straight,4271
+2019,South East,Heterosexual or straight,6787
+2019,South West,Heterosexual or straight,4285
+2019,UK,Heterosexual or straight,49914
+2019,Wales,Heterosexual or straight,2408
+2019,West Midlands,Heterosexual or straight,4398
+2019,Yorkshire and The Humber,Heterosexual or straight,4113
+2019,East,Gay or lesbian,58
+2019,East Midlands,Gay or lesbian,70
+2019,England,Gay or lesbian,718
+2019,London,Gay or lesbian,184
+2019,North East,Gay or lesbian,28
+2019,North West,Gay or lesbian,78
+2019,Northern Ireland,Gay or lesbian,10
+2019,Scotland,Gay or lesbian,65
+2019,South East,Gay or lesbian,114
+2019,South West,Gay or lesbian,77
+2019,UK,Gay or lesbian,840
+2019,Wales,Gay or lesbian,48
+2019,West Midlands,Gay or lesbian,55
+2019,Yorkshire and The Humber,Gay or lesbian,53
+2019,East,Bisexual,48
+2019,East Midlands,Bisexual,33
+2019,England,Bisexual,502
+2019,London,Bisexual,87
+2019,North East,Bisexual,22
+2019,North West,Bisexual,52
+2019,Northern Ireland,Bisexual,9
+2019,Scotland,Bisexual,54
+2019,South East,Bisexual,97
+2019,South West,Bisexual,47
+2019,UK,Bisexual,591
+2019,Wales,Bisexual,26
+2019,West Midlands,Bisexual,68
+2019,Yorkshire and The Humber,Bisexual,47
+2019,East,Other,27
+2019,East Midlands,Other,33
+2019,England,Other,306
+2019,London,Other,53
+2019,North East,Other,6
+2019,North West,Other,25
+2019,Northern Ireland,Other,5
+2019,Scotland,Other,22
+2019,South East,Other,102
+2019,South West,Other,18
+2019,UK,Other,359
+2019,Wales,Other,25
+2019,West Midlands,Other,23
+2019,Yorkshire and The Humber,Other,20
+2019,East,Don't know or refuse,91
+2019,East Midlands,Don't know or refuse,106
+2019,England,Don't know or refuse,1472
+2019,London,Don't know or refuse,466
+2019,North East,Don't know or refuse,26
+2019,North West,Don't know or refuse,185
+2019,Northern Ireland,Don't know or refuse,23
+2019,Scotland,Don't know or refuse,56
+2019,South East,Don't know or refuse,203
+2019,South West,Don't know or refuse,113
+2019,UK,Don't know or refuse,1594
+2019,Wales,Don't know or refuse,43
+2019,West Midlands,Don't know or refuse,138
+2019,Yorkshire and The Humber,Don't know or refuse,144
+NA,East,NA,NA
+NA,East Midlands,NA,NA
+NA,England,NA,NA
+NA,London,NA,NA
+NA,North East,NA,NA
+NA,North West,NA,NA
+NA,Northern Ireland,NA,NA
+NA,Scotland,NA,NA
+NA,South East,NA,NA
+NA,South West,NA,NA
+NA,UK,NA,NA
+NA,Wales,NA,NA
+NA,West Midlands,NA,NA
+NA,Yorkshire and The Humber,NA,NA
+NA,East,NA,NA
+NA,East Midlands,NA,NA
+NA,England,NA,NA
+NA,London,NA,NA
+NA,North East,NA,NA
+NA,North West,NA,NA
+NA,Northern Ireland,NA,NA
+NA,Scotland,NA,NA
+NA,South East,NA,NA
+NA,South West,NA,NA
+NA,UK,NA,NA
+NA,Wales,NA,NA
+NA,West Midlands,NA,NA
+NA,Yorkshire and The Humber,NA,NA
+2012,Northern Ireland,Heterosexual or straight,95.3
+NA,Northern Ireland,Gay or lesbian,0.5
+NA,Northern Ireland,Bisexual,0.6
+NA,Northern Ireland,Other,0.6
+NA,Northern Ireland,Don't know or refuse,3
+2013,Northern Ireland,Heterosexual or straight,93.7
+NA,Northern Ireland,Gay or lesbian,0.8
+NA,Northern Ireland,Bisexual,1.1
+NA,Northern Ireland,Other,0.4
+NA,Northern Ireland,Don't know or refuse,4
+2014,East,Heterosexual or straight,96.1
+2014,East Midlands,Heterosexual or straight,96
+2014,England,Heterosexual or straight,95.1
+2014,London,Heterosexual or straight,92.5
+2014,North East,Heterosexual or straight,96.8
+2014,North West,Heterosexual or straight,95.7
+2014,Northern Ireland,Heterosexual or straight,93.5
+2014,Scotland,Heterosexual or straight,96.9
+2014,South East,Heterosexual or straight,95.3
+2014,South West,Heterosexual or straight,95.3
+2014,UK,Heterosexual or straight,95.3
+2014,Wales,Heterosexual or straight,95.7
+2014,West Midlands,Heterosexual or straight,95.4
+2014,Yorkshire and The Humber,Heterosexual or straight,95.1
+NA,East,Gay or lesbian,1
+NA,East Midlands,Gay or lesbian,0.8
+NA,England,Gay or lesbian,1.1
+NA,London,Gay or lesbian,1.9
+NA,North East,Gay or lesbian,1.1
+NA,North West,Gay or lesbian,1.2
+NA,Northern Ireland,Gay or lesbian,0.9
+NA,Scotland,Gay or lesbian,0.8
+NA,South East,Gay or lesbian,0.9
+NA,South West,Gay or lesbian,1.1
+NA,UK,Gay or lesbian,1.1
+NA,Wales,Gay or lesbian,1.1
+NA,West Midlands,Gay or lesbian,0.8
+NA,Yorkshire and The Humber,Gay or lesbian,0.9
+NA,East,Bisexual,0.6
+NA,East Midlands,Bisexual,0.4
+NA,England,Bisexual,0.6
+NA,London,Bisexual,0.7
+NA,North East,Bisexual,0.2
+NA,North West,Bisexual,0.3
+NA,Northern Ireland,Bisexual,0.9
+NA,Scotland,Bisexual,0.3
+NA,South East,Bisexual,0.8
+NA,South West,Bisexual,0.5
+NA,UK,Bisexual,0.5
+NA,Wales,Bisexual,0.5
+NA,West Midlands,Bisexual,0.5
+NA,Yorkshire and The Humber,Bisexual,0.5
+NA,East,Other,0.5
+NA,East Midlands,Other,0.2
+NA,England,Other,0.3
+NA,London,Other,0.3
+NA,North East,Other,0.2
+NA,North West,Other,0.3
+NA,Northern Ireland,Other,0.3
+NA,Scotland,Other,0.2
+NA,South East,Other,0.3
+NA,South West,Other,0.4
+NA,UK,Other,0.3
+NA,Wales,Other,0.5
+NA,West Midlands,Other,0.3
+NA,Yorkshire and The Humber,Other,0.4
+NA,East,Don't know or refuse,2
+NA,East Midlands,Don't know or refuse,2.5
+NA,England,Don't know or refuse,2.9
+NA,London,Don't know or refuse,4.4
+NA,North East,Don't know or refuse,1.7
+NA,North West,Don't know or refuse,2.5
+NA,Northern Ireland,Don't know or refuse,4.4
+NA,Scotland,Don't know or refuse,1.7
+NA,South East,Don't know or refuse,2.7
+NA,South West,Don't know or refuse,2.7
+NA,UK,Don't know or refuse,2.8
+NA,Wales,Don't know or refuse,2.2
+NA,West Midlands,Don't know or refuse,3.1
+NA,Yorkshire and The Humber,Don't know or refuse,3
+2015,East,Heterosexual or straight,95.9
+2015,East Midlands,Heterosexual or straight,95.5
+2015,England,Heterosexual or straight,95.1
+2015,London,Heterosexual or straight,92.7
+2015,North East,Heterosexual or straight,96.9
+2015,North West,Heterosexual or straight,95.1
+2015,Northern Ireland,Heterosexual or straight,94.1
+2015,Scotland,Heterosexual or straight,96.3
+2015,South East,Heterosexual or straight,95.4
+2015,South West,Heterosexual or straight,95.5
+2015,UK,Heterosexual or straight,95.2
+2015,Wales,Heterosexual or straight,95.9
+2015,West Midlands,Heterosexual or straight,96
+2015,Yorkshire and The Humber,Heterosexual or straight,95.1
+NA,East,Gay or lesbian,0.7
+NA,East Midlands,Gay or lesbian,0.9
+NA,England,Gay or lesbian,1.2
+NA,London,Gay or lesbian,2
+NA,North East,Gay or lesbian,1.2
+NA,North West,Gay or lesbian,1.3
+NA,Northern Ireland,Gay or lesbian,0.8
+NA,Scotland,Gay or lesbian,1
+NA,South East,Gay or lesbian,1.1
+NA,South West,Gay or lesbian,1.1
+NA,UK,Gay or lesbian,1.2
+NA,Wales,Gay or lesbian,1
+NA,West Midlands,Gay or lesbian,0.7
+NA,Yorkshire and The Humber,Gay or lesbian,1.1
+NA,East,Bisexual,0.5
+NA,East Midlands,Bisexual,0.5
+NA,England,Bisexual,0.6
+NA,London,Bisexual,0.7
+NA,North East,Bisexual,0.2
+NA,North West,Bisexual,0.7
+NA,Northern Ireland,Bisexual,1.1
+NA,Scotland,Bisexual,0.6
+NA,South East,Bisexual,0.8
+NA,South West,Bisexual,0.8
+NA,UK,Bisexual,0.7
+NA,Wales,Bisexual,0.6
+NA,West Midlands,Bisexual,0.7
+NA,Yorkshire and The Humber,Bisexual,0.7
+NA,East,Other,0.7
+NA,East Midlands,Other,0.5
+NA,England,Other,0.4
+NA,London,Other,0.4
+NA,North East,Other,0.2
+NA,North West,Other,0.3
+NA,Northern Ireland,Other,0.3
+NA,Scotland,Other,0.4
+NA,South East,Other,0.4
+NA,South West,Other,0.4
+NA,UK,Other,0.4
+NA,Wales,Other,0.5
+NA,West Midlands,Other,0.3
+NA,Yorkshire and The Humber,Other,0.4
+NA,East,Don't know or refuse,2.2
+NA,East Midlands,Don't know or refuse,2.6
+NA,England,Don't know or refuse,2.6
+NA,London,Don't know or refuse,4.2
+NA,North East,Don't know or refuse,1.5
+NA,North West,Don't know or refuse,2.6
+NA,Northern Ireland,Don't know or refuse,3.7
+NA,Scotland,Don't know or refuse,1.6
+NA,South East,Don't know or refuse,2.4
+NA,South West,Don't know or refuse,2.2
+NA,UK,Don't know or refuse,2.6
+NA,Wales,Don't know or refuse,2
+NA,West Midlands,Don't know or refuse,2.3
+NA,Yorkshire and The Humber,Don't know or refuse,2.7
+2016,East,Heterosexual or straight,95.7
+2016,East Midlands,Heterosexual or straight,94.5
+2016,England,Heterosexual or straight,94.8
+2016,London,Heterosexual or straight,92.7
+2016,North East,Heterosexual or straight,96.9
+2016,North West,Heterosexual or straight,95
+2016,Northern Ireland,Heterosexual or straight,95.9
+2016,Scotland,Heterosexual or straight,95.9
+2016,South East,Heterosexual or straight,94.9
+2016,South West,Heterosexual or straight,95.5
+2016,UK,Heterosexual or straight,95
+2016,Wales,Heterosexual or straight,96
+2016,West Midlands,Heterosexual or straight,95.7
+2016,Yorkshire and The Humber,Heterosexual or straight,94.4
+NA,East,Gay or lesbian,0.6
+NA,East Midlands,Gay or lesbian,1
+NA,England,Gay or lesbian,1.3
+NA,London,Gay or lesbian,2.2
+NA,North East,Gay or lesbian,1.2
+NA,North West,Gay or lesbian,1.3
+NA,Northern Ireland,Gay or lesbian,0.9
+NA,Scotland,Gay or lesbian,1.2
+NA,South East,Gay or lesbian,1.2
+NA,South West,Gay or lesbian,1.2
+NA,UK,Gay or lesbian,1.2
+NA,Wales,Gay or lesbian,1
+NA,West Midlands,Gay or lesbian,0.9
+NA,Yorkshire and The Humber,Gay or lesbian,1.1
+NA,East,Bisexual,0.6
+NA,East Midlands,Bisexual,0.6
+NA,England,Bisexual,0.8
+NA,London,Bisexual,0.6
+NA,North East,Bisexual,0.2
+NA,North West,Bisexual,1
+NA,Northern Ireland,Bisexual,0.8
+NA,Scotland,Bisexual,1
+NA,South East,Bisexual,0.9
+NA,South West,Bisexual,0.9
+NA,UK,Bisexual,0.8
+NA,Wales,Bisexual,0.7
+NA,West Midlands,Bisexual,0.7
+NA,Yorkshire and The Humber,Bisexual,1
+NA,East,Other,0.9
+NA,East Midlands,Other,0.9
+NA,England,Other,0.6
+NA,London,Other,0.5
+NA,North East,Other,0.2
+NA,North West,Other,0.3
+NA,Northern Ireland,Other,0.3
+NA,Scotland,Other,0.3
+NA,South East,Other,0.5
+NA,South West,Other,0.4
+NA,UK,Other,0.5
+NA,Wales,Other,0.4
+NA,West Midlands,Other,0.5
+NA,Yorkshire and The Humber,Other,0.5
+NA,East,Don't know or refuse,2.1
+NA,East Midlands,Don't know or refuse,3
+NA,England,Don't know or refuse,2.6
+NA,London,Don't know or refuse,4
+NA,North East,Don't know or refuse,1.4
+NA,North West,Don't know or refuse,2.3
+NA,Northern Ireland,Don't know or refuse,2.1
+NA,Scotland,Don't know or refuse,1.6
+NA,South East,Don't know or refuse,2.4
+NA,South West,Don't know or refuse,2
+NA,UK,Don't know or refuse,2.5
+NA,Wales,Don't know or refuse,1.9
+NA,West Midlands,Don't know or refuse,2.2
+NA,Yorkshire and The Humber,Don't know or refuse,3.1
+2017,East,Heterosexual or straight,95.9
+2017,East Midlands,Heterosexual or straight,94.5
+2017,England,Heterosexual or straight,94.7
+2017,London,Heterosexual or straight,93.2
+2017,North East,Heterosexual or straight,96.8
+2017,North West,Heterosexual or straight,95.1
+2017,Northern Ireland,Heterosexual or straight,97.1
+2017,Scotland,Heterosexual or straight,96.6
+2017,South East,Heterosexual or straight,94.9
+2017,South West,Heterosexual or straight,94.8
+2017,UK,Heterosexual or straight,95
+2017,Wales,Heterosexual or straight,95.8
+2017,West Midlands,Heterosexual or straight,94.7
+2017,Yorkshire and The Humber,Heterosexual or straight,94.3
+NA,East,Gay or lesbian,0.8
+NA,East Midlands,Gay or lesbian,1
+NA,England,Gay or lesbian,1.4
+NA,London,Gay or lesbian,2.1
+NA,North East,Gay or lesbian,1.2
+NA,North West,Gay or lesbian,1.5
+NA,Northern Ireland,Gay or lesbian,1
+NA,Scotland,Gay or lesbian,1.1
+NA,South East,Gay or lesbian,1.5
+NA,South West,Gay or lesbian,1.6
+NA,UK,Gay or lesbian,1.3
+NA,Wales,Gay or lesbian,1.3
+NA,West Midlands,Gay or lesbian,1.1
+NA,Yorkshire and The Humber,Gay or lesbian,1
+NA,East,Bisexual,0.7
+NA,East Midlands,Bisexual,0.9
+NA,England,Bisexual,0.8
+NA,London,Bisexual,0.6
+NA,North East,Bisexual,0.3
+NA,North West,Bisexual,0.7
+NA,Northern Ireland,Bisexual,0.3
+NA,Scotland,Bisexual,0.8
+NA,South East,Bisexual,0.8
+NA,South West,Bisexual,0.8
+NA,UK,Bisexual,0.8
+NA,Wales,Bisexual,0.7
+NA,West Midlands,Bisexual,1.1
+NA,Yorkshire and The Humber,Bisexual,0.9
+NA,East,Other,1
+NA,East Midlands,Other,1.2
+NA,England,Other,0.6
+NA,London,Other,0.6
+NA,North East,Other,0.3
+NA,North West,Other,0.3
+NA,Northern Ireland,Other,0.3
+NA,Scotland,Other,0.4
+NA,South East,Other,0.5
+NA,South West,Other,0.5
+NA,UK,Other,0.6
+NA,Wales,Other,0.5
+NA,West Midlands,Other,0.9
+NA,Yorkshire and The Humber,Other,0.5
+NA,East,Don't know or refuse,1.6
+NA,East Midlands,Don't know or refuse,2.5
+NA,England,Don't know or refuse,2.5
+NA,London,Don't know or refuse,3.5
+NA,North East,Don't know or refuse,1.4
+NA,North West,Don't know or refuse,2.3
+NA,Northern Ireland,Don't know or refuse,1.3
+NA,Scotland,Don't know or refuse,1.1
+NA,South East,Don't know or refuse,2.3
+NA,South West,Don't know or refuse,2.3
+NA,UK,Don't know or refuse,2.3
+NA,Wales,Don't know or refuse,1.7
+NA,West Midlands,Don't know or refuse,2.2
+NA,Yorkshire and The Humber,Don't know or refuse,3.3
+2018,East,Heterosexual or straight,96.1
+2018,East Midlands,Heterosexual or straight,94.3
+2018,England,Heterosexual or straight,94.4
+2018,London,Heterosexual or straight,91.5
+2018,North East,Heterosexual or straight,96.7
+2018,North West,Heterosexual or straight,94.2
+2018,Northern Ireland,Heterosexual or straight,97
+2018,Scotland,Heterosexual or straight,96.1
+2018,South East,Heterosexual or straight,94.9
+2018,South West,Heterosexual or straight,95.1
+2018,UK,Heterosexual or straight,94.6
+2018,Wales,Heterosexual or straight,95.2
+2018,West Midlands,Heterosexual or straight,94.8
+2018,Yorkshire and The Humber,Heterosexual or straight,94.1
+NA,East,Gay or lesbian,1.1
+NA,East Midlands,Gay or lesbian,1.4
+NA,England,Gay or lesbian,1.4
+NA,London,Gay or lesbian,2.1
+NA,North East,Gay or lesbian,1.1
+NA,North West,Gay or lesbian,1.4
+NA,Northern Ireland,Gay or lesbian,0.8
+NA,Scotland,Gay or lesbian,1
+NA,South East,Gay or lesbian,1.3
+NA,South West,Gay or lesbian,1.6
+NA,UK,Gay or lesbian,1.4
+NA,Wales,Gay or lesbian,1.5
+NA,West Midlands,Gay or lesbian,0.9
+NA,Yorkshire and The Humber,Gay or lesbian,1.3
+NA,East,Bisexual,1
+NA,East Midlands,Bisexual,0.7
+NA,England,Bisexual,0.9
+NA,London,Bisexual,0.7
+NA,North East,Bisexual,0.7
+NA,North West,Bisexual,0.7
+NA,Northern Ireland,Bisexual,0.4
+NA,Scotland,Bisexual,1
+NA,South East,Bisexual,0.9
+NA,South West,Bisexual,0.6
+NA,UK,Bisexual,0.9
+NA,Wales,Bisexual,0.8
+NA,West Midlands,Bisexual,1.3
+NA,Yorkshire and The Humber,Bisexual,1
+NA,East,Other,0.5
+NA,East Midlands,Other,1.2
+NA,England,Other,0.6
+NA,London,Other,0.7
+NA,North East,Other,0.4
+NA,North West,Other,0.4
+NA,Northern Ireland,Other,0.4
+NA,Scotland,Other,0.6
+NA,South East,Other,0.5
+NA,South West,Other,0.4
+NA,UK,Other,0.6
+NA,Wales,Other,0.8
+NA,West Midlands,Other,0.7
+NA,Yorkshire and The Humber,Other,0.5
+NA,East,Don't know or refuse,1.4
+NA,East Midlands,Don't know or refuse,2.2
+NA,England,Don't know or refuse,2.8
+NA,London,Don't know or refuse,4.9
+NA,North East,Don't know or refuse,1.1
+NA,North West,Don't know or refuse,3.3
+NA,Northern Ireland,Don't know or refuse,1.5
+NA,Scotland,Don't know or refuse,1.3
+NA,South East,Don't know or refuse,2.4
+NA,South West,Don't know or refuse,2.3
+NA,UK,Don't know or refuse,2.5
+NA,Wales,Don't know or refuse,1.7
+NA,West Midlands,Don't know or refuse,2.3
+NA,Yorkshire and The Humber,Don't know or refuse,3.1
+2019,East,Heterosexual or straight,95.5
+2019,East Midlands,Heterosexual or straight,93.7
+2019,England,Heterosexual or straight,93.3
+2019,London,Heterosexual or straight,88.9
+2019,North East,Heterosexual or straight,96.1
+2019,North West,Heterosexual or straight,94.2
+2019,Northern Ireland,Heterosexual or straight,96.8
+2019,Scotland,Heterosexual or straight,95.6
+2019,South East,Heterosexual or straight,92.9
+2019,South West,Heterosexual or straight,94.4
+2019,UK,Heterosexual or straight,93.7
+2019,Wales,Heterosexual or straight,94.4
+2019,West Midlands,Heterosexual or straight,93.9
+2019,Yorkshire and The Humber,Heterosexual or straight,94

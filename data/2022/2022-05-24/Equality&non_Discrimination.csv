@@ -1,0 +1,54 @@
+country,constitution_sexual_orientation,employment_sexual_orientation,goods_services_sexual_orientation,education_sexual_orientation,health_sexual_orientation,conversion_therapy_sexual_orientation,equality_body_mandate_sexual_orientation,equality_action_plan_sexual_orientation,constitution_gender_identity,employment_gender_identity,goods_services_gender_identity,education_gender_identity,health_gender_identity,conversion_therapy_gender_identity,equality_body_mandate_gender_identity,equality_action_plan_gender_identity,law_gender_expression,constitution_sex_characteristics,employment_sex_characteristics,goods_services_sex_characteristics,education_sex_characteristics,health_sex_characteristics,equality_body_mandate_sex_characteristics,equality_action_plan_sex_characteristics,blood_donations
+Albania,NA,1,1,1,NA,NA,1,NA,NA,1,1,1,NA,NA,1,NA,NA,NA,1,1,1,NA,NA,NA,1
+Andorra,1,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Armenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Austria,1,1,0.5,0.5,0.5,NA,1,NA,1,1,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Azerbaijan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Belarus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Belgium,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,1,NA,1,1,1,1,1,NA,NA
+Bosnia and Herzegovina,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,1,NA,1,1,1,1,1,NA,0.5
+Bulgaria,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Cyprus,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denmark,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,1,NA,1,1,1,1,1,NA,NA
+Estonia,1,1,NA,1,NA,NA,1,1,NA,1,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,1,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,1,1,1,1,1,1,1,1,1,NA
+France,NA,1,1,1,1,1,1,1,NA,1,1,1,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA
+Georgia,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,0.5,1,1,0.5,1,NA,1,0.5,0.5,1,1,0.5,1,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,0.5,NA
+Greece,NA,1,1,NA,NA,NA,1,1,NA,1,1,NA,NA,NA,1,1,1,NA,1,NA,NA,NA,NA,1,NA
+Hungary,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iceland,NA,1,1,1,NA,NA,1,NA,NA,1,1,NA,NA,NA,1,NA,1,NA,1,NA,NA,NA,1,NA,NA
+Ireland,NA,1,1,1,1,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA
+Italy,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Kosovo,1,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Latvia,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Liechtenstein,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lithuania,NA,1,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Luxembourg,NA,1,1,1,1,NA,1,1,NA,1,1,1,1,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA
+Malta,1,1,NA,1,NA,1,1,1,1,1,NA,1,NA,1,1,1,1,NA,1,1,1,1,1,1,NA
+Moldova,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Monaco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Montenegro,NA,1,1,1,1,NA,1,1,NA,1,1,1,1,NA,1,1,1,NA,1,1,1,1,1,1,1
+Netherlands,NA,1,1,1,NA,NA,1,1,NA,1,1,1,NA,NA,1,1,1,NA,1,1,1,NA,1,1,NA
+North Macedonia,NA,1,1,1,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,NA,1,1,1,1,NA,1,1,NA,1,1,1,1,NA,1,1,1,NA,NA,NA,NA,NA,NA,1,NA
+Poland,NA,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Portugal,1,1,NA,1,NA,NA,1,NA,NA,1,NA,1,NA,NA,1,NA,1,NA,NA,NA,1,NA,NA,NA,1
+Romania,NA,1,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Russia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+San Marino,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Serbia,NA,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,NA,NA,1,1,1,1,NA,NA,NA
+Slovakia,1,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Slovenia,1,1,1,1,1,NA,1,NA,NA,1,1,1,1,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,NA,1,0.5,1,1,0.5,NA,0.5,NA,0.5,0.5,1,1,0.5,NA,0.5,0.5,NA,0.5,0.5,0.5,0.5,NA,0.5,1
+Sweden,1,1,1,1,1,NA,1,1,NA,1,1,1,1,NA,1,1,1,NA,NA,NA,NA,NA,NA,1,NA
+Switzerland,1,NA,1,1,1,NA,NA,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ukraine,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+United Kingdom,1,1,1,1,1,NA,NA,NA,1,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Symbols,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+x - national / federal application,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+o - applicable in some regions only,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
