@@ -73,16 +73,15 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
 ## Data
 
-| dataset        | description  (categories or factors)             |     |
-| :------------- | :----------------------------------------------- | :-- |
-| T1Q1-LGBTI-age | topic 1 question 1 for all age categories        |     |
-| T1Q1-LGBTI-edu | topic 1 question 1 for all education categories  |     |
-| T1Q1-LGBTI-emp | topic 1 question 1 for all employment categories |     |
-| T1Q1-LGBTI-    | topic 1 question 1 for all                       |     |
-|                |                                                  |     |
-|                |                                                  |     |
-|                |                                                  |     |
-|                |                                                  |     |
+| dataset        | description  (categories or factors)             |   
+| :------------- | :----------------------------------------------- |
+| T1Q1-LGBTI-age | topic 1 question 1 for all age categories        |    
+| T1Q1-LGBTI-edu | topic 1 question 1 for all education categories  |     
+| T1Q1-LGBTI-emp | topic 1 question 1 for all employment categories |   
+| T1Q1-LGBTI-    | topic 1 question 1 for all                       |    
+|                |                                                  |     
+|                |                                                  |     
+|                |                                                  |     
 
 
 
