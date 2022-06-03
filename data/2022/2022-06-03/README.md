@@ -4,11 +4,15 @@
 
 curated by [Cara Cuiule (She/Her)](https://github.com/cacalc/tidyRainbowScratch)
 
-Disclaimer: This product uses the TMDB API but is not endorsed or certified by TMDB.
 
-[Website](https://www.themoviedb.org/)
 
-[API Documentation](https://developers.themoviedb.org/)
+> **Disclaimer**
+> This product uses the TMDB API but is not endorsed or certified by TMDB.
+
+> **Note**
+> [Website](https://www.themoviedb.org/) and the [API Documentation](https://developers.themoviedb.org/)
+
+
 
 ## About the Data
 
