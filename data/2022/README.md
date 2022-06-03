@@ -14,7 +14,7 @@ each week will have a folder to contain all files
 | 6    | 2022-05-25        | [LA LGBTQ Resources](2022-05-25)              | LA Open Data    |    |
 | 7    | 2022-05-26        | [Sexual Orientation UK](2022-05-26)           | National Stats UK  | |
 | 8    | 2022-06-03        | [LGBTQ Movies database](2022-06-03)           | The Movie Database (TMDB) | |
-| 9    |                   |                                               |            |         |
+| 9    | 2022-06-04        | [EU Fundamental Rights Survey](2022-06-04)     | EU-FRA          |         |
 | 10    |                   |                                               |            |         |
 | 11    |                   |                                               |            |         |
 

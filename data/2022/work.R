@@ -225,9 +225,9 @@ library(janitor)
 # LGBTQIA+ Quality of life Survey
 # https://data.world/cityofaustin/34qp-i76m/workspace/project-summary?agentid=cityofaustin&datasetid=34qp-i76m
 
-df = read_csv('./data/2022/lgbtqia-quality-of-life-study-all-responses-1.csv') %>% clean_names()
-
-head(df)
+# df = read_csv('./data/2022/lgbtqia-quality-of-life-study-all-responses-1.csv') %>% clean_names()
+# 
+# head(df)
 
 
 
@@ -695,6 +695,21 @@ df3 = df %>%
 # three = read_csv('2022-05-21/LGBTQ-Survey-part3.csv')
 # head(three)
 
+
+
+
+# fra-EU ------------------------------------------------------------------
+
+library(tidyverse)
+library(janitor)
+
+# target group:  All, lesbian women, gay men, bisexual women, bisexual men, trans people, intersex
+# filter : All, age, education, employment, openness about being LGBTI, partner, place of residence, trans subgroups
+
+
+
+df = read_csv('~/Downloads/2022-06-03-csv_exportSurveyQuestion-LGBTI-AllSubset-0--All-DEXavoid_hands-EN-0--All.csv', skip= 4) %>% clean_names()
+glimpse(df)
 
 
 
