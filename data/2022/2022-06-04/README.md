@@ -12,29 +12,52 @@ The findings are based on data weighted to take into account differences in the 
 EU-28 = UK,  UK and EU-28 exist together in dataset
 some age ranges for specific groups have missing countries
 
-## topic 
-  1. Living openly and daily life
+## Topic 
+
+| number | question                     |
+| :----- | :--------------------------- |
+| 1      | Living openly and daily life |
+| 2      |                              |
+
 
 ## Questions
-  1. Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ?
+
+| number | question                                                                                                           |
+| :----- | :----------------------------------------------------------------------------------------------------------------- |
+| 1.     | Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ? |
+| 2.     |                                                                                                                    |
+
   
-## target group:  (subset)
+## Target group:  (subset)
+
   <!-- All * -->
   lesbian women, <<<
+  
   gay men, <<<
+  
   bisexual women, <<<<
+  
   bisexual men, <<<
+  
   trans people, <<<
+  
   intersex <<<
   
-## filter : 
+## filter 
+
   <!-- All, *  -->
   age,            <<<---------
+  
   education,
+  
   employment, 
+  
   openness about being LGBTI, 
+  
   partner, 
-  place of residence, 
+  
+  place of residence,
+  
   trans subgroups
 
 
