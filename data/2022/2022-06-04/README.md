@@ -13,6 +13,11 @@ The findings are based on data weighted to take into account differences in the 
   some age ranges for specific groups have missing countries
 
 
+### data cleaning
+
+Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_code` and `notes`, replaced all values in percentage that contained ':' as a missing value holder with NA.
+
+
 ## Topic 
 
 | number | topic                        |
@@ -32,29 +37,30 @@ The findings are based on data weighted to take into account differences in the 
 ## Target group:  (subset)
 
   <!-- All * -->
-  lesbian women, 
-  
-  gay men, 
-  
-  bisexual women, 
-  
-  bisexual men, 
-  
-  trans people, 
-  
+  lesbian women, <<<
+  gay men,  <<<
+  bisexual women, <<<
+  bisexual men, <<<
+  trans people, <<<
   intersex 
   
-## filter 
+## Group factors
 
-  <!-- All, *  -->
-  age 
+| factor     | levels                                             |
+| :--------- | :------------------------------------------------- |
+| age        | (15-17), (18-24), (25-39), (40-54), (55+ )         |
+| education  | lower secondary or less, upper secondary, tertiary |
+| employment | - paid work (incl. self employment)                |
+|            | - unpaid voluntary work                            |
+|            | - unemployment                                     |
+|            | - student                                          |
+|            | - retired                                          |
+|            | - unable to work - health issues                   |
+|            | - otherwise not working                            |
+|            |                                                    |
   
-  education, <<<---------
-    lower secondary or less
-    upper secondary education
-    tertiary education
   
-  employment, 
+  
   
   openness about being LGBTI, 
   
@@ -67,16 +73,16 @@ The findings are based on data weighted to take into account differences in the 
 
 ## Data
 
-| dataset        | description                                     |  
-| :------------- | :---------------------------------------------- | 
-| T1Q1-LGBTI-age | topic 1 question 1 for all age categories       |     
-| T1Q1-LGBTI-edu | topic 1 question 1 for all education categories |     
-| T1Q1-LGBTI-    | topic 1 question 1 for all                      |     
-| T1Q1-LGBTI-    | topic 1 question 1 for all                      |    
-|                |                                                 |     
-|                |                                                 | 
-|                |                                                 | 
-|                |                                                 | 
+| dataset        | description                                      |     |
+| :------------- | :----------------------------------------------- | :-- |
+| T1Q1-LGBTI-age | topic 1 question 1 for all age categories        |     |
+| T1Q1-LGBTI-edu | topic 1 question 1 for all education categories  |     |
+| T1Q1-LGBTI-emp | topic 1 question 1 for all employment categories |     |
+| T1Q1-LGBTI-    | topic 1 question 1 for all                       |     |
+|                |                                                  |     |
+|                |                                                  |     |
+|                |                                                  |     |
+|                |                                                  |     |
 
 
 
