@@ -32,24 +32,27 @@ The findings are based on data weighted to take into account differences in the 
 ## Target group:  (subset)
 
   <!-- All * -->
-  lesbian women, <<<
+  lesbian women, 
   
-  gay men, <<<
+  gay men, 
   
-  bisexual women, <<<<
+  bisexual women, 
   
-  bisexual men, <<<
+  bisexual men, 
   
-  trans people, <<<
+  trans people, 
   
-  intersex <<<
+  intersex 
   
 ## filter 
 
   <!-- All, *  -->
-  age,            <<<---------
+  age 
   
-  education,
+  education, <<<---------
+    lower secondary or less
+    upper secondary education
+    tertiary education
   
   employment, 
   
@@ -64,12 +67,16 @@ The findings are based on data weighted to take into account differences in the 
 
 ## Data
 
-| dataset        | description                               |
-| :------------- | :---------------------------------------- |
-| T1Q1-LGBTI-age | topic 1 question 1 for all age categories |
-|                |                                           |
-
-
+| dataset        | description                                     |  
+| :------------- | :---------------------------------------------- | 
+| T1Q1-LGBTI-age | topic 1 question 1 for all age categories       |     
+| T1Q1-LGBTI-edu | topic 1 question 1 for all education categories |     
+| T1Q1-LGBTI-    | topic 1 question 1 for all                      |     
+| T1Q1-LGBTI-    | topic 1 question 1 for all                      |    
+|                |                                                 |     
+|                |                                                 | 
+|                |                                                 | 
+|                |                                                 | 
 
 
 
