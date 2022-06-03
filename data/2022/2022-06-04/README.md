@@ -8,13 +8,14 @@ The survey was conducted online3 from 27 May to 22 July 2019. Its questionnaire 
 The findings are based on data weighted to take into account differences in the estimated size of each LGBTI group in each survey country and by age group, based on information on the LGBTI population from previous LGBTI surveys in the EU. In addition, the data were weighted taking into account the respondents’ affiliation with LGBTI organisations and whether they have participated in other LGBTI surveys (including FRA’s LGBT survey of 2012). This was done to correct for possible over-representation of respondents closely affiliated with LGBTI organisations and with a higher propensity to participate in LGBTI surveys.
 
 
+**Note**
+> EU-28 = UK,  UK and EU-28 exist together in dataset
+  some age ranges for specific groups have missing countries
 
-EU-28 = UK,  UK and EU-28 exist together in dataset
-some age ranges for specific groups have missing countries
 
 ## Topic 
 
-| number | question                     |
+| number | topic                        |
 | :----- | :--------------------------- |
 | 1      | Living openly and daily life |
 | 2      |                              |
@@ -59,6 +60,24 @@ some age ranges for specific groups have missing countries
   place of residence,
   
   trans subgroups
+
+
+## Data
+
+| dataset        | description                               |
+| :------------- | :---------------------------------------- |
+| T1Q1-LGBTI-age | topic 1 question 1 for all age categories |
+|                |                                           |
+
+
+
+
+
+
+
+
+
+
 
 
 
