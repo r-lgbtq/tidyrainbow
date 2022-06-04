@@ -38,10 +38,10 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
   <!-- All * -->
   lesbian women, <<<
-  gay men,  <<<
-  bisexual women, <<
-  bisexual men,  <<
-  trans people, <<
+  gay men,  
+  bisexual women, 
+  bisexual men,  
+  trans people, 
   intersex 
   
 ## Group factors  (subset)
@@ -59,9 +59,9 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 |            | - otherwise not working                            |
 | openness   | about being LGBTI                                  |
 |            | very open, fairly open, rarely open, never open    |
-|            |                                                    |
+| partner    | female, male, other/non-binary, no partner         |
+
   
-  partner, 
   
   place of residence,
   
@@ -71,14 +71,15 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 ## Data
 
 | dataset            | description  (categories or factors)             |   
-| :----------------- | :----------------------------------------------- |
-| T1Q1-LGBTI-age     | topic 1 question 1 for all age categories        |    
-| T1Q1-LGBTI-edu     | topic 1 question 1 for all education categories  |     
-| T1Q1-LGBTI-emp     | topic 1 question 1 for all employment categories |   
-| T1Q1-LGBTI-open    | topic 1 question 1  level of LGBTI openness      |    
+| :----------------- | :----------------------------------------------- | 
+| T1Q1-LGBTI-age     | topic 1 question 1 for all age categories        |  
+| T1Q1-LGBTI-edu     | topic 1 question 1 for all education categories  |    
+| T1Q1-LGBTI-emp     | topic 1 question 1 for all employment categories |    
+| T1Q1-LGBTI-open    | topic 1 question 1  level of LGBTI openness      |   
+| T1Q1-LGBTI-partner | topic 1 question 1  partner type                 |     
+|                    |                                                  |   
 |                    |                                                  |     
-|                    |                                                  |     
-|                    |                                                  |     
+|                    |                                                  |        
 
 
 
