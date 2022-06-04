@@ -31,8 +31,8 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 | number | question                                                                                                             |
 | :----- | :------------------------------------------------------------------------------------------------------------------- |
 | 1.     | *Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ?* |
-| 2.     | *"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed due to being LGBTI?"* |   
-| 3.     | *""*                                                                                                                 | 
+| 2.     | *Do you avoid certain places or locations for fear of being assaulted, threatened or harassed due to being LGBTI?*   |   
+| 3.     | **                                                                                                                   | 
 
   
 ## Target group: 
@@ -89,7 +89,7 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 | T1Q1-LGBTI-open    | topic 1 question 1  level of LGBTI openness      |   
 | T1Q1-LGBTI-partner | topic 1 question 1  partner type                 |    
 | T1Q1-LGBTI-res     | topic 1 question 1  place of residence           |   
-| T1Q1-LGBTI-gender  | topic 1 question 1 Transgender gender identities |  
+| T1Q1-T-gender      | topic 1 question 1 Transgender gender identities |  
 |                    |                                                  |   
 |                    |                                                  |     
 |                    |                                                  |        
