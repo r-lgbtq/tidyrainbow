@@ -48,8 +48,8 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
 | factor     | levels                                             |
 | :--------- | :------------------------------------------------- |
-| age        | (15-17), (18-24), (25-39), (40-54), (55+ )         |  *
-| education  | lower secondary or less, upper secondary, tertiary |
+| age        | (15-17), (18-24), (25-39), (40-54), (55+ )         | *
+| education  | lower secondary or less, upper secondary, tertiary | *
 | employment | - paid work (incl. self employment)                |
 |            | - unpaid voluntary work                            |
 |            | - unemployment                                     |
@@ -91,9 +91,8 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 | T1Q1-LGBTI-res     | topic 1 question 1  place of residence           |   
 | T1Q1-T-gender      | topic 1 question 1 Transgender gender identities | 
 | T1Q2-LGBTI-age     | topic 1 question 2 for all age categories        |  
+| T1Q2-LGBTI-edu     | topic 1 question 2 for all education categories  |  
 |                    |                                                  |   
-|                    |                                                  |     
-|                    |                                                  |        
 
 
 
