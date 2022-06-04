@@ -28,11 +28,11 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
 ## Questions
 
-| number | question                                                                                                             |
-| :----- | :------------------------------------------------------------------------------------------------------------------- |
-| 1.     | *Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ?* |
-| 2.     | *Do you avoid certain places or locations for fear of being assaulted, threatened or harassed due to being LGBTI?*   |   
-| 3.     | **                                                                                                                   | 
+| number | question                                                                                                               |     |     |     |
+| :----- | :--------------------------------------------------------------------------------------------------------------------- | :-- | :-- | :-- |
+| 1.     | *Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ?*   |     |     |     |
+| 2.     | *Do you avoid certain places or locations for fear of being assaulted, threatened or harassed due to being LGBTI?*     |     |     |     |
+| 3.     | *Where do you avoid being open about yourself as LGBTI for fear of being assaulted, threatened or harassed by others?* |     | 4.  |     |
 
   
 ## Target group: 
@@ -50,13 +50,13 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 | :--------- | :------------------------------------------------- |
 | age        | (15-17), (18-24), (25-39), (40-54), (55+ )         | *
 | education  | lower secondary or less, upper secondary, tertiary | *
-| employment | - paid work (incl. self employment)                |
-|            | - unpaid voluntary work                            |
-|            | - unemployment                                     |
-|            | - student                                          |
-|            | - retired                                          |
-|            | - unable to work - health issues                   |
-|            | - otherwise not working                            |
+| employment | - paid work (incl. self employment)                | *
+|            | - unpaid voluntary work                            | *
+|            | - unemployment                                     | *
+|            | - student                                          | *
+|            | - retired                                          | *
+|            | - unable to work - health issues                   | *
+|            | - otherwise not working                            | *
 | openness   | about being LGBTI                                  |
 |            | very open, fairly open, rarely open, never open    |
 | partner    | female, male, other/non-binary, no partner         |
