@@ -78,7 +78,7 @@ each year will have designated folder
 - https://fra.europa.eu/sites/default/files/fra_uploads/lgbti-survey-country-data_germany.pdf
 
 
-.
+. https://lgbtmap.medium.com/map-joins-nearly-200-organizations-calling-for-lgbtqi-data-inclusion-6a0b9930a84e
 
 
 

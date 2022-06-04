@@ -60,10 +60,11 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 | openness   | about being LGBTI                                  |
 |            | very open, fairly open, rarely open, never open    |
 | partner    | female, male, other/non-binary, no partner         |
+| residence  | city, suburbs, town, country village, countryside  | 
 
   
   
-  place of residence,
+  
   
   trans subgroups
 
@@ -76,7 +77,8 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 | T1Q1-LGBTI-edu     | topic 1 question 1 for all education categories  |    
 | T1Q1-LGBTI-emp     | topic 1 question 1 for all employment categories |    
 | T1Q1-LGBTI-open    | topic 1 question 1  level of LGBTI openness      |   
-| T1Q1-LGBTI-partner | topic 1 question 1  partner type                 |     
+| T1Q1-LGBTI-partner | topic 1 question 1  partner type                 |    
+| T1Q1-LGBTI-res     | topic 1 question 1  place of residence           |   
 |                    |                                                  |   
 |                    |                                                  |     
 |                    |                                                  |        
