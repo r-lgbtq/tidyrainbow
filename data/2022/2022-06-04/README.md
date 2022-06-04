@@ -30,9 +30,9 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
 | number | question                                                                                                               |     |     |     |
 | :----- | :--------------------------------------------------------------------------------------------------------------------- | :-- | :-- | :-- |
-| 1.     | *Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ?*   |     |     |     |
-| 2.     | *Do you avoid certain places or locations for fear of being assaulted, threatened or harassed due to being LGBTI?*     |     |     |     |
-| 3.     | *Where do you avoid being open about yourself as LGBTI for fear of being assaulted, threatened or harassed by others?* |     | 4.  |     |
+| 1.     | *Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ?*   |     
+| 2.     | *Do you avoid certain places or locations for fear of being assaulted, threatened or harassed due to being LGBTI?*     |    
+| 3.     | *Where do you avoid being open about yourself as LGBTI for fear of being assaulted, threatened or harassed by others?* |
 
   
 ## Target group: 
@@ -48,15 +48,15 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
 | factor     | levels                                             |
 | :--------- | :------------------------------------------------- |
-| age        | (15-17), (18-24), (25-39), (40-54), (55+ )         | *
-| education  | lower secondary or less, upper secondary, tertiary | *
-| employment | - paid work (incl. self employment)                | *
-|            | - unpaid voluntary work                            | *
-|            | - unemployment                                     | *
-|            | - student                                          | *
-|            | - retired                                          | *
-|            | - unable to work - health issues                   | *
-|            | - otherwise not working                            | *
+| age        | (15-17), (18-24), (25-39), (40-54), (55+ )         | 
+| education  | lower secondary or less, upper secondary, tertiary | 
+| employment | - paid work (incl. self employment)                | 
+|            | - unpaid voluntary work                            | 
+|            | - unemployment                                     | 
+|            | - student                                          | 
+|            | - retired                                          | 
+|            | - unable to work - health issues                   | 
+|            | - otherwise not working                            | 
 | openness   | about being LGBTI                                  |
 |            | very open, fairly open, rarely open, never open    |
 | partner    | female, male, other/non-binary, no partner         |
@@ -81,18 +81,16 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
 ## Data
 
-| dataset            | description  (categories or factors)             |   
-| :----------------- | :----------------------------------------------- | 
-| T1Q1-LGBTI-age     | topic 1 question 1 for all age categories        |  
-| T1Q1-LGBTI-edu     | topic 1 question 1 for all education categories  |    
-| T1Q1-LGBTI-emp     | topic 1 question 1 for all employment categories |    
-| T1Q1-LGBTI-open    | topic 1 question 1  level of LGBTI openness      |   
-| T1Q1-LGBTI-partner | topic 1 question 1  partner type                 |    
-| T1Q1-LGBTI-res     | topic 1 question 1  place of residence           |   
-| T1Q1-T-gender      | topic 1 question 1 Transgender gender identities | 
-| T1Q2-LGBTI-age     | topic 1 question 2 for all age categories        |  
-| T1Q2-LGBTI-edu     | topic 1 question 2 for all education categories  |  
-|                    |                                                  |   
+| dataset sheet number    | filename             | description  (categories or factors)             |   
+| :---------------------- | :--------------------|------------------------------------------------- | 
+|  1                      | T1Q1-LGBTI-age       | topic 1 question 1 for all age categories        |  
+|  2                      | T1Q1-LGBTI-edu       | topic 1 question 1 for all education categories  |    
+|  3                      | T1Q1-LGBTI-emp       | topic 1 question 1 for all employment categories |    
+|  4                      | T1Q1-LGBTI-open      | topic 1 question 1  level of LGBTI openness      |   
+|  5                      | T1Q1-LGBTI-partner   | topic 1 question 1  partner type                 |    
+|  6                      | T1Q1-LGBTI-res       | topic 1 question 1  place of residence           |   
+|  7                      | T1Q1-T-gender        | topic 1 question 1 Transgender gender identities | 
+
 
 
 
