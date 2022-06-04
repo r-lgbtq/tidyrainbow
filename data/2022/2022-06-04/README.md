@@ -15,7 +15,7 @@ The findings are based on data weighted to take into account differences in the 
 
 ### data cleaning
 
-Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_code` and `notes`, replaced all values in percentage that contained ':' as a missing value holder with NA.
+Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_code` and `notes`, replaced all values in `percentage` column that contained ':' as a missing value holder with NA.
 
 
 ## Topic 
@@ -30,21 +30,21 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
 | number | question                                                                                                           |
 | :----- | :----------------------------------------------------------------------------------------------------------------- |
-| 1.     | Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ? |
+| 1.     | *Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened or harassed ?* |
 | 2.     |                                                                                                                    |
 
   
-## Target group:  (subset)
+## Target group: 
 
   <!-- All * -->
   lesbian women, <<<
   gay men,  <<<
-  bisexual women, <<<
-  bisexual men, <<<
-  trans people, <<<
+  bisexual women, <<
+  bisexual men,  <<
+  trans people, <<
   intersex 
   
-## Group factors
+## Group factors  (subset)
 
 | factor     | levels                                             |
 | :--------- | :------------------------------------------------- |
@@ -57,12 +57,9 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 |            | - retired                                          |
 |            | - unable to work - health issues                   |
 |            | - otherwise not working                            |
+| openness   | about being LGBTI                                  |
+|            | very open, fairly open, rarely open, never open    |
 |            |                                                    |
-  
-  
-  
-  
-  openness about being LGBTI, 
   
   partner, 
   
@@ -73,15 +70,15 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 
 ## Data
 
-| dataset        | description  (categories or factors)             |   
-| :------------- | :----------------------------------------------- |
-| T1Q1-LGBTI-age | topic 1 question 1 for all age categories        |    
-| T1Q1-LGBTI-edu | topic 1 question 1 for all education categories  |     
-| T1Q1-LGBTI-emp | topic 1 question 1 for all employment categories |   
-| T1Q1-LGBTI-    | topic 1 question 1 for all                       |    
-|                |                                                  |     
-|                |                                                  |     
-|                |                                                  |     
+| dataset            | description  (categories or factors)             |   
+| :----------------- | :----------------------------------------------- |
+| T1Q1-LGBTI-age     | topic 1 question 1 for all age categories        |    
+| T1Q1-LGBTI-edu     | topic 1 question 1 for all education categories  |     
+| T1Q1-LGBTI-emp     | topic 1 question 1 for all employment categories |   
+| T1Q1-LGBTI-open    | topic 1 question 1  level of LGBTI openness      |    
+|                    |                                                  |     
+|                    |                                                  |     
+|                    |                                                  |     
 
 
 
