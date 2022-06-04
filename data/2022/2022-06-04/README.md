@@ -15,7 +15,7 @@ The findings are based on data weighted to take into account differences in the 
 
 ### data cleaning
 
-Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_code` and `notes`, replaced all values in `percentage` column that contained ':' as a missing value holder with NA.
+Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_code` and `notes`, replaced all values in `percentage` column that contained ':' as a missing value holder with NA. Categories or factors with large amount of 'NA' values were removed. The `Trans subgroups` factor "cross-dresser" was excluded from this data.
 
 
 ## Topic 
@@ -61,12 +61,22 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 |            | very open, fairly open, rarely open, never open    |
 | partner    | female, male, other/non-binary, no partner         |
 | residence  | city, suburbs, town, country village, countryside  | 
+| gender_id  | trans women                                        |
+|            | trans man                                          |
+|            | trans person                                       |
+|            | non-binary                                         |
+|            | genderqueer                                        |
+|            | genderfluid                                        |
+|            | agender                                            |
+|            | polygender                                         | 
+|     x      |                                                    |
+
 
   
   
   
   
-  trans subgroups
+  
 
 
 ## Data
@@ -79,6 +89,7 @@ Each dataset was cleaned by removing the rows 1 to 14, deleted column `question_
 | T1Q1-LGBTI-open    | topic 1 question 1  level of LGBTI openness      |   
 | T1Q1-LGBTI-partner | topic 1 question 1  partner type                 |    
 | T1Q1-LGBTI-res     | topic 1 question 1  place of residence           |   
+| T1Q1-LGBTI-gender  | topic 1 question 1 Transgender gender identities |  
 |                    |                                                  |   
 |                    |                                                  |     
 |                    |                                                  |        
