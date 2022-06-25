@@ -15,7 +15,7 @@ This data is taken from the article [Contraceptive failure in the United States]
 
 ## Why this is relevant
 
-It may seem strange to kick-off #TidyRainbow with a data set that isn't specifically about LGBTQ+ issues and which does not explicity include non-binary genders or LGBTQ+ people. But, make no mistake, reproductive freedom is relevant to our community and, in the immediate wake of the overturning of Roe vs Wade, it is essential to address this issue.
+It may seem strange to kick-off #TidyRainbow with a data set that isn't specifically about LGBTQ+ issues and which does not explicitly include non-binary genders or LGBTQ+ people. But, make no mistake, reproductive freedom is relevant to our community and, in the immediate wake of the overturning of Roe vs Wade, it is essential to address this issue.
 
 Firstly, there are members of our community with a uterus who are having sex with people with sperm. 
 
