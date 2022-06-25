@@ -5,7 +5,7 @@
 
 ## A weekly social data project in R
 
-A weekly data project aimed at the LGBTQ+ community who use the R language ecosystem.
+A fortnightly data project aimed at the LGBTQ+ community who use the R language ecosystem.
 This is borne out of the lack of LGBTQ+ representation in the widely used datasets in data science. This project is a version of the `R4DS Online Learning Community` repository, where use of the `tidyverse` libraries is encouraged and where code is shared. The goal is to use your data visualisation and analysis skills and share your insights with the world.
 
 ---

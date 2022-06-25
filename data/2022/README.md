@@ -17,4 +17,4 @@ each week will have a folder to contain all files
 | 9    | 2022-10-10        | [LGBTQ Movies database](2022-10-10)           | The Movie Database (TMDB) | |
 | 10    | 2022-10-24        | [EU Fundamental Rights Survey](2022-10-24)     | EU-FRA          |         |
 | 11    |                   |                                               |            |         |
-| 112    |                   |                                               |            |         |
+| 12    |                   |                                               |            |         |
