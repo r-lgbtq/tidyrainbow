@@ -6,15 +6,15 @@ Archive of datasets and articles from 2022 series of #TidyRainbow
 each week will have a folder to contain all files
 | Week | Date `YYYY-MM-DD` | Data                                          | Source     | Article |
 | :--- | :---------------- | :-------------------------------------------- | :--------- | :------ |
-| 1    | 2022-05-19        | [Gender Based Violence](2022-05-19)           | StatsCan   |         |
-| 2    | 2022-05-20        | [Marital Status LGB Canadians](2022-05-20)    | StatsCan   |         |
-| 3    | 2022-05-21        | [LGBTQIA Qualifty of Life Survey](2022-05-21) | data.world |         |
-| 4    | 2022-05-23        | [EU LGBT Survey](2022-05-23)                  | kaggle     |         |
-| 5    | 2022-05-24        | [Rainbow Europe - ILGA](2022-05-24)           | Rainbow Europe  |    |
-| 6    | 2022-05-25        | [LA LGBTQ Resources](2022-05-25)              | LA Open Data    |    |
-| 7    | 2022-05-26        | [Sexual Orientation UK](2022-05-26)           | National Stats UK  | |
-| 8    | 2022-06-03        | [LGBTQ Movies database](2022-06-03)           | The Movie Database (TMDB) | |
-| 9    | 2022-06-04        | [EU Fundamental Rights Survey](2022-06-04)     | EU-FRA          |         |
+| 1    | 2022-07-04        | [Gender Based Violence](2022-05-19)           | StatsCan   |         |
+| 2    | 2022-07-18        | [Marital Status LGB Canadians](2022-05-20)    | StatsCan   |         |
+| 3    | 2022-08-01        | [LGBTQIA Qualifty of Life Survey](2022-05-21) | data.world |         |
+| 4    | 2022-08-15        | [EU LGBT Survey](2022-05-23)                  | kaggle     |         |
+| 5    | 2022-08-29        | [Rainbow Europe - ILGA](2022-05-24)           | Rainbow Europe  |    |
+| 6    | 2022-09-12        | [LA LGBTQ Resources](2022-05-25)              | LA Open Data    |    |
+| 7    | 2022-09-26        | [Sexual Orientation UK](2022-05-26)           | National Stats UK  | |
+| 8    | 2022-10-10        | [LGBTQ Movies database](2022-06-03)           | The Movie Database (TMDB) | |
+| 9    | 2022-10-24        | [EU Fundamental Rights Survey](2022-06-04)     | EU-FRA          |         |
 | 10    |                   |                                               |            |         |
 | 11    |                   |                                               |            |         |
 
