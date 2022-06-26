@@ -16,5 +16,5 @@ each week will have a folder to contain all files
 | 8    | 2022-09-26        | [Sexual Orientation UK](2022-09-26)           | National Stats UK  | |
 | 9    | 2022-10-10        | [LGBTQ Movies database](2022-10-10)           | The Movie Database (TMDB) | |
 | 10    | 2022-10-24        | [EU Fundamental Rights Survey](2022-10-24)     | EU-FRA          |         |
-| 11    |                   |                                               |            |         |
+| 11    | 2022-11-07        | [Housing needs older adults](2022-11-07)      | Journal of Homosexuality  |     |
 | 12    |                   |                                               |            |         |
