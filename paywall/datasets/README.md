@@ -64,7 +64,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
-
+- Yasuko Kanamori & Yonghong J. Xu (2022) Factors Associated with Transphobia: A Structural Equation Modeling Approach, Journal of Homosexuality, 69:4, 716-740, DOI: 10.1080/00918369.2020.1851959
 
 
 
