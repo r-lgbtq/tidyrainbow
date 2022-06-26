@@ -28,6 +28,8 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Michael G. Lee & Jean K. Quam (2013) Comparing Supports for LGBT Aging in Rural Versus Urban Areas, Journal of Gerontological Social Work, 56:2, 112-126, DOI:10.1080/01634372.2012.747580
+
 
 
 
