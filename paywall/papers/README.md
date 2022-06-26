@@ -32,6 +32,7 @@ Brief description of papers.
 | Helping Professions & Transphobia    | Transphobia   | 2017        |
 | UK Trans women & HRT                 | hormones      | 2019        |
 | NB & GQ: Mental & Sexual well being   | health        | 2021        |
+| EU study Trans: barriers to care      | health       | 2021        |
 
 
 
