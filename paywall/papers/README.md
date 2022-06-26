@@ -30,6 +30,7 @@ Brief description of papers.
 | Feminism: decrease Transphobia       | Transphobia   | 2021        |
 | Transphobia: Factors associated      | Transphobia   | 2022        |
 | Helping Professions & Transphobia    | Transphobia   | 2017        |
+| UK Trans women & HRT                 | hormones      | 2019        |
 
 
 
