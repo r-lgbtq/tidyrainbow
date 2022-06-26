@@ -31,6 +31,7 @@ Brief description of papers.
 | Transphobia: Factors associated      | Transphobia   | 2022        |
 | Helping Professions & Transphobia    | Transphobia   | 2017        |
 | UK Trans women & HRT                 | hormones      | 2019        |
+| NB & GQ: Mental & Sexual well being   | health        | 2021        |
 
 
 
