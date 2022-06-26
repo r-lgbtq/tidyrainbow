@@ -29,6 +29,7 @@ Brief description of papers.
 | Predict: Transphobia in Cis-men/women | Transphobia  | 2021        |
 | Feminism: decrease Transphobia       | Transphobia   | 2021        |
 | Transphobia: Factors associated      | Transphobia   | 2022        |
+| Helping Professions & Transphobia    | Transphobia   | 2017        |
 
 
 
