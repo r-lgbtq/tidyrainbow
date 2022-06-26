@@ -24,6 +24,27 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Michele J. Eliason PhD , Suzanne L. Dibble DNSc RN & Patricia A. Robertson MD (2011) Lesbian, Gay, Bisexual, and Transgender (LGBT) Physicians' Experiences in the Workplace, Journal of Homosexuality, 58:10, 1355-1371, DOI: 10.1080/00918369.2011.614902
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
