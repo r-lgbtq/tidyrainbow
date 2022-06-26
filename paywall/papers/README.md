@@ -11,3 +11,4 @@ This is to have a list of paper description as for looking up. (preliminary setu
 | minority stress of hiding: LGBT     |  stress        | 2021        |
 | Housing needs LGBT older adults     | housing        | 2021        |
 | Social Care Networks & older adults | social needs   | 2014        |
+| Bisexual w/ Intellect. Disability   | bisexuality    | 2020        | 
