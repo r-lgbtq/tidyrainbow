@@ -1,7 +1,7 @@
 
 # Paper Listing
 
-This is to have a list of paper description as for looking up. (preliminary setup)
+Brief description of papers.
 
 | title (short)                       | `#Topic`       | Year `YYYY` |
 | :---------------------------------- | :------------- | :---------- |
@@ -18,7 +18,7 @@ This is to have a list of paper description as for looking up. (preliminary setu
 | LGBT mainstream media analysis      | diversity      | 2017        |
 | LGBT Health in US midlands          | health         | 2014        |
 | LGBT Physicians workplace           | workplace      | 2011        |
-
+| LGBT microaggressions @ work        | workplace      | 2019        |
 
 
 
