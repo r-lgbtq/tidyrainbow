@@ -20,6 +20,7 @@ Brief description of papers.
 | LGBT Physicians workplace           | workplace      | 2011        |
 | LGBT microaggressions @ work        | workplace      | 2019        |
 | Trans: Pregnancy intents & outcomes | pregnancy      | 2020        |
+| Trans Masc : pregnancy & childbirth | pregnancy      | 2021        |
 
 
 

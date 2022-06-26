@@ -35,6 +35,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Felicitas Falck, Louise Frisén, Cecilia Dhejne & Gabriela Armuand (2021) Undergoing pregnancy and childbirth as trans masculine in Sweden: experiencing and dealing with structural discrimination, gender norms and microaggressions in antenatal care, delivery and gender clinics, International Journal of Transgender Health, 22:1-2, 42-53, DOI:10.1080/26895269.2020.1845905
 
 
 
