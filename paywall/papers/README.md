@@ -3,7 +3,7 @@
 
 This is to have a list of paper description as for looking up. (preliminary setup)
 
-| title (short)               | 1st Author    | Year `YYYY` |
-| :-------------------------- | :------------ | :---------- |
-| Corporations in LGBT rights | Maks-Solomon  | 2021        |
-|                             |               |             |
+| title (short)                       | `#Topic`       | Year `YYYY` |
+| :---------------------------------- | :------------- | :---------- |
+| Corporations in LGBT rights         | rights         | 2021        |
+| LGBT discrim. Germany, Portugal, UK | discrimination | 2021        |
