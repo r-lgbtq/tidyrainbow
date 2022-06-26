@@ -16,6 +16,7 @@ This is to have a list of paper description as for looking up. (preliminary setu
 | LGBT Asylum seekers & mental health | mental health  | 2017        |
 | LGBT discrim. Buddhist country      | discrimination | 2022        |
 | LGBT mainstream media analysis      | diversity      | 2017        |
+| LGBT Health in US midlands          | health         | 2014        |
 
 
 
