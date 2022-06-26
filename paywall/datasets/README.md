@@ -39,7 +39,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
-
+- Aisa Burgwal, Natia Gvianishvili, Vierge Hård, Julia Kata, Isidro García Nieto, Cal Orre, Adam Smiley, Jelena Vidić & Joz Motmans (2019) Health disparities between binary and non binary trans people: A community-driven survey, International Journal of Transgenderism, 20:2-3, 218-229, DOI: 10.1080/15532739.2019.1629370
 
 
 
