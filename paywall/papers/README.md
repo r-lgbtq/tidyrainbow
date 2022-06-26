@@ -27,6 +27,22 @@ Brief description of papers.
 | Hetero-cis-normativity & Transphobia | Transphobia   | 2016        |
 | Homo/Transphobia: correlate         | Homophobia     | 2013        |
 | Predict: Transphobia in Cis-men/women | Transphobia  | 2021        |
+| Feminism: decrease Transphobia       | Transphobia   | 2021        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
