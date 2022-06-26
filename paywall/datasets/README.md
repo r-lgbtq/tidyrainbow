@@ -31,7 +31,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 - Michael G. Lee & Jean K. Quam (2013) Comparing Supports for LGBT Aging in Rural Versus Urban Areas, Journal of Gerontological Social Work, 56:2, 112-126, DOI:10.1080/01634372.2012.747580
 
 
-
+- Heidi Moseson, Laura Fix, Jen Hastings, Ari Stoeffler, Mitchell R. Lunn, Annesa Flentje, Micah E. Lubensky, Matthew R. Capriotti, Sachiko Ragosta, Hannah Forsberg & Juno Obedin-Maliver (2021) Pregnancy intentions and outcomes among transgender, nonbinary, and gender-expansive people assigned female or intersex at birth in the United States: Results from a national, quantitative survey, International Journal of Transgender Health, 22:1-2, 30-41, DOI: 10.1080/26895269.2020.1841058
 
 
 
