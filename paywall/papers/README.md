@@ -9,3 +9,4 @@ This is to have a list of paper description as for looking up. (preliminary setu
 | LGBT discrim. Germany, Portugal, UK | discrimination | 2021        |
 | LGBT inclus. & Econ Dev             | economics      | 2019        |
 | minority stress of hiding: LGBT     |  stress        | 2021        |
+| Housing needs LGBT older adults     | housing        | 2021        |
