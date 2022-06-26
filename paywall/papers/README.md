@@ -8,3 +8,4 @@ This is to have a list of paper description as for looking up. (preliminary setu
 | Corporations in LGBT rights         | rights         | 2021        |
 | LGBT discrim. Germany, Portugal, UK | discrimination | 2021        |
 | LGBT inclus. & Econ Dev             | economics      | 2019        |
+| minority stress of hiding: LGBT     |  stress        | 2021        |
