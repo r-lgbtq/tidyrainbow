@@ -14,4 +14,17 @@ This is to have a list of paper description as for looking up. (preliminary setu
 | Bisexual w/ Intellect. Disability   | bisexuality    | 2020        | 
 | safer sexual spaces Queer & Trans   | disabilities   | 2012        |
 | LGBT Asylum seekers & mental health | mental health  | 2017        |
+| LGBT discrim. Buddhist country      | discrimination | 2022        |
+
+
+
+
+
+
+
+
+
+
+
+
 
