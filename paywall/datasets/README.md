@@ -48,7 +48,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
-
+- Nat Thorne, Gemma L. Witcomb, Timo Nieder, Elena Nixon, Andrew Yip & Jon Arcelus (2019) A comparison of mental health symptomatology and levels of social support in young treatment seeking transgender individuals who identify as binary and non-binary, International Journal of Transgenderism, 20:2-3, 241-250, DOI: 10.1080/15532739.2018.1452660
 
 
 
