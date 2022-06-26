@@ -26,7 +26,7 @@ Brief description of papers.
 | Discrim, Mental health: Trans/GNC   | health         | 2018        |
 | Hetero-cis-normativity & Transphobia | Transphobia   | 2016        |
 | Homo/Transphobia: correlate         | Homophobia     | 2013        |
-
+| Predict: Transphobia in Cis-men/women | Transphobia  | 2021        |
 
 
 
