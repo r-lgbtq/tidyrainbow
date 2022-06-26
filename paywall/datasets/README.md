@@ -60,7 +60,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
-
+- Sarah E. Conlin, Richard P. Douglass & Emma H. Moscardini (2021) Predicting transphobia among cisgender women and men: The roles of feminist identification and gender conformity, Journal of Gay & Lesbian Mental Health, 25:1, 5-19, DOI:10.1080/19359705.2020.1780535
 
 
 
