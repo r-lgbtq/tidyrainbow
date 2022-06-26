@@ -28,6 +28,8 @@ Brief description of papers.
 | Homo/Transphobia: correlate         | Homophobia     | 2013        |
 | Predict: Transphobia in Cis-men/women | Transphobia  | 2021        |
 | Feminism: decrease Transphobia       | Transphobia   | 2021        |
+| Transphobia: Factors associated      | Transphobia   | 2022        |
+
 
 
 
