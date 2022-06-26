@@ -20,6 +20,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Christopher M. Fisher, Jay A. Irwin & Jason D. Coleman (2014) LGBT Health in the Midlands: A Rural/Urban Comparison of Basic Health Indicators, Journal of Homosexuality, 61:8, 1062-1090, DOI: 10.1080/00918369.2014.872487
 
 
 
