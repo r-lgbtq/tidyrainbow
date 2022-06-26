@@ -52,6 +52,9 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Ariella Tabaac, Paul B. Perrin & Eric G. Benotsch (2018) Discrimination, mental health, and body image among transgender and gender-non-binary individuals: Constructing a multiple mediational path model, Journal of Gay & Lesbian Social Services, 30:1,1-16, DOI: 10.1080/10538720.2017.1408514
+
+
 
 
 
