@@ -19,7 +19,7 @@ Brief description of papers.
 | LGBT Health in US midlands          | health         | 2014        |
 | LGBT Physicians workplace           | workplace      | 2011        |
 | LGBT microaggressions @ work        | workplace      | 2019        |
-
+| Trans: Pregnancy intents & outcomes | pregnancy      | 2020        |
 
 
 
