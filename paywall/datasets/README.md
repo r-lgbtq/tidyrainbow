@@ -44,6 +44,31 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Beth A. Clark, Jaimie F. Veale, Marria Townsend, Hélène Frohard-Dourlent & Elizabeth Saewyc (2018) Non-binary youth: Access to gender-affirming primary health care, International Journal of Transgenderism, 19:2, 158-169, DOI: 10.1080/15532739.2017.1394954
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
