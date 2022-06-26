@@ -16,7 +16,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 - Krichkanok Srimuang & Piriya Pholphirul (2022): Measuring LGBT Discrimination in a Buddhist Country, Journal of Homosexuality, DOI: 10.1080/00918369.2021.2018876
 
 
-
+- Ana-Isabel Nölke (2018) Making Diversity Conform? An Intersectional, Longitudinal Analysis of LGBT-Specific Mainstream Media Advertisements, Journal of Homosexuality, 65:2, 224-255, DOI: 10.1080/00918369.2017.1314163
 
 
 
