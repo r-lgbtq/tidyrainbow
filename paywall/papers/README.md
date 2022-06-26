@@ -17,6 +17,7 @@ This is to have a list of paper description as for looking up. (preliminary setu
 | LGBT discrim. Buddhist country      | discrimination | 2022        |
 | LGBT mainstream media analysis      | diversity      | 2017        |
 | LGBT Health in US midlands          | health         | 2014        |
+| LGBT Physicians workplace           | workplace      | 2011        |
 
 
 
