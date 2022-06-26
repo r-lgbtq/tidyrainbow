@@ -23,6 +23,7 @@ Brief description of papers.
 | Trans Masc : pregnancy & childbirth | pregnancy      | 2021        |
 | Health disparities b/w Trans/Cis    | health         | 2019        |
 | Non-binary & gender affirm care     | health         | 2018        |
+| Discrim, Mental health: Trans/GNC   | health         | 2018        |
 
 
 
