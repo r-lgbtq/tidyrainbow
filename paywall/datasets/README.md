@@ -13,3 +13,20 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Krichkanok Srimuang & Piriya Pholphirul (2022): Measuring LGBT Discrimination in a Buddhist Country, Journal of Homosexuality, DOI: 10.1080/00918369.2021.2018876
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
