@@ -21,6 +21,8 @@ Brief description of papers.
 | LGBT microaggressions @ work        | workplace      | 2019        |
 | Trans: Pregnancy intents & outcomes | pregnancy      | 2020        |
 | Trans Masc : pregnancy & childbirth | pregnancy      | 2021        |
+| Health disparities b/w Trans/Cis    | health         | 2019        |
+
 
 
 
