@@ -56,6 +56,8 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Meredith G. F. Worthen (2016) Hetero-cis–normativity and the gendering of transphobia, International Journal of Transgenderism, 17:1, 31-57, DOI: 10.1080/15532739.2016.1149538
+
 
 
 
