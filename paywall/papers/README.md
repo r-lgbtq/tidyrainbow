@@ -35,6 +35,7 @@ Brief description of papers.
 | EU study Trans: barriers to care      | health       | 2021        |
 | India Trans women & Hijra: stress     | stress       | 2022        |
 | India: Hijras gender transition barriers | health    | 2014       |
+| Non-binary microaggression scale      | microaggression | 2022    |
 
 
 
