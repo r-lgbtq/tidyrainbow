@@ -78,6 +78,9 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
+- Greta R. Bauer, Nik Redman, Kaitlin Bradley & Ayden I. Scheim (2013) Sexual Health of Trans Men Who Are Gay, Bisexual, or Who Have Sex with Men: Results from Ontario, Canada, International Journal of Transgenderism, 14:2, 66-74, DOI:10.1080/15532739.2013.791650
+
+<< Dr. Bauer is awesome >>
 
 
 
