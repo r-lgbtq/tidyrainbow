@@ -74,7 +74,7 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 
 
 
-
+- Katharine A. Rimes, Nicola Goodship, Greg Ussher, Dan Baker & Elizabeth West (2019) Non-binary and binary transgender youth: Comparison of mental health, self-harm, suicidality, substance use and victimization experiences, International Journal of Transgenderism, 20:2-3, 230-240, DOI: 10.1080/15532739.2017.1370627
 
 
 
