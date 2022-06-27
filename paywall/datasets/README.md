@@ -70,6 +70,8 @@ this is datasets retrieved from behind paywalls that are to be moved into the da
 - Gila M. Acker (2017) Transphobia Among Students Majoring in the Helping Professions, Journal of Homosexuality, 64:14, 2011-2029, DOI: 10.1080/00918369.2017.1293404
 
 
+- Maeghan B. Ross, Tim C. van de Grift, Els Elaut, Timo O. Nieder, Inga Becker-Hebly, Gunter Heylens & Baudewijntje P. C. Kreukels (2021): Experienced barriers of care within European treatment seeking transgender individuals: A multicenter ENIGI follow-up study, International Journal of Transgender Health, DOI: 10.1080/26895269.2021.1964409
+
 
 
 
