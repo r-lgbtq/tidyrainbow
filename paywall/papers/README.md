@@ -39,7 +39,7 @@ Brief description of papers.
 | Cissexism: stress for Trans & GNC     | cissexism    | 2021       |
 | NB & binary Trans: health comparisons | health       | 2019       |
 | LGBT in TV programs: effect of exposure | visibility | 2019       |
-
+| Homophobic language: male sports teams  | Homophobia | 2020       |
 
 
 
