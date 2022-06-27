@@ -40,7 +40,7 @@ Brief description of papers.
 | NB & binary Trans: health comparisons | health       | 2019       |
 | LGBT in TV programs: effect of exposure | visibility | 2019       |
 | Homophobic language: male sports teams  | Homophobia | 2020       |
-
+| Gay & Lesbian hiring discrimination     | discrimination | 2018   |
 
 
 
