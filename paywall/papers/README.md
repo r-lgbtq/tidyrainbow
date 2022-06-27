@@ -33,6 +33,7 @@ Brief description of papers.
 | UK Trans women & HRT                 | hormones      | 2019        |
 | NB & GQ: Mental & Sexual well being   | health        | 2021        |
 | EU study Trans: barriers to care      | health       | 2021        |
+| India Trans women & Hijra: stress     | stress       | 2022        |
 
 
 
