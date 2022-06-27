@@ -37,6 +37,7 @@ Brief description of papers.
 | India: Hijras gender transition barriers | health    | 2014       |
 | Non-binary microaggression scale      | microaggression | 2022    |
 | Cissexism: stress for Trans & GNC     | cissexism    | 2021       |
+| NB & binary Trans: health comparisons | health       | 2019       |
 
 
 
