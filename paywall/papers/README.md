@@ -34,6 +34,12 @@ Brief description of papers.
 | NB & GQ: Mental & Sexual well being   | health        | 2021        |
 | EU study Trans: barriers to care      | health       | 2021        |
 | India Trans women & Hijra: stress     | stress       | 2022        |
+| India: Hijras gender transition barriers | health    | 2014       |
+
+
+
+
+
 
 
 
