@@ -38,6 +38,7 @@ Brief description of papers.
 | Non-binary microaggression scale      | microaggression | 2022    |
 | Cissexism: stress for Trans & GNC     | cissexism    | 2021       |
 | NB & binary Trans: health comparisons | health       | 2019       |
+| LGBT in TV programs: effect of exposure | visibility | 2019       |
 
 
 
