@@ -8,4 +8,4 @@ This folder is for data extracted from links and to be moved to TidyRainbow use.
 ## Data parsed from link resource
 
 
-- [UCLA Williams Institute - LGBT People in the US no protected by State non-discrimination statutes](https://williamsinstitute.law.ucla.edu/publications/lgbt-nondiscrimination-statutes/?mc_cid=fa37930b0c&mc_eid=1cfeb892d5)
+- [UCLA Williams Institute - LGBT People in the US not protected by State non-discrimination statutes](https://williamsinstitute.law.ucla.edu/publications/lgbt-nondiscrimination-statutes/?mc_cid=fa37930b0c&mc_eid=1cfeb892d5)
