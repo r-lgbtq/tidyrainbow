@@ -80,7 +80,7 @@ each year will have designated folder
 
 . https://lgbtmap.medium.com/map-joins-nearly-200-organizations-calling-for-lgbtqi-data-inclusion-6a0b9930a84e
 
-- [UCLA Williams Institute - LGBT People in the US no protected by State non-discrimination statutes](https://williamsinstitute.law.ucla.edu/publications/lgbt-nondiscrimination-statutes/?mc_cid=fa37930b0c&mc_eid=1cfeb892d5)
+
 
 - _Measuring Sex, Gender Identity and Sexual Orientation_ , The National Academics of Sciences Engineering Medicine. **Free Online version** : https://nap.nationalacademies.org/read/26424/chapter/1
 
