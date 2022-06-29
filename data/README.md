@@ -82,6 +82,9 @@ each year will have designated folder
 
 - [UCLA Williams Institute - LGBT People in the US no protected by State non-discrimination statutes](https://williamsinstitute.law.ucla.edu/publications/lgbt-nondiscrimination-statutes/?mc_cid=fa37930b0c&mc_eid=1cfeb892d5)
 
+- _Measuring Sex, Gender Identity and Sexual Orientation_ , The National Academics of Sciences Engineering Medicine. **Free Online version** : https://nap.nationalacademies.org/read/26424/chapter/1
+
+> National Academies of Sciences, Engineering, and Medicine. 2022. Measuring Sex, Gender Identity, and Sexual Orientation. Washington, DC: The National Academies Press. https://doi.org/10.17226/26424.
 
 
 
