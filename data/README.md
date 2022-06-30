@@ -73,13 +73,18 @@ each year will have designated folder
 
 - https://blogs.worldbank.org/eastasiapacific/lgbti-in-thailand-new-data-paves-way-for-more-inclusion
 
-- https://journals.sagepub.com/doi/full/10.1177/00113921211039271
+
+
+
+
+
 
 - https://fra.europa.eu/sites/default/files/fra_uploads/lgbti-survey-country-data_germany.pdf
 
 
-. https://lgbtmap.medium.com/map-joins-nearly-200-organizations-calling-for-lgbtqi-data-inclusion-6a0b9930a84e
 
+
+- https://lgbtmap.medium.com/map-joins-nearly-200-organizations-calling-for-lgbtqi-data-inclusion-6a0b9930a84e
 
 
 - _Measuring Sex, Gender Identity and Sexual Orientation_ , The National Academics of Sciences Engineering Medicine. **Free Online version** : https://nap.nationalacademies.org/read/26424/chapter/1
