@@ -50,8 +50,8 @@ genderqueer_flag = c('#CE7EDE','#FFFFFF','#288225')
 
 
 # -------------------------------------------------------------------------
-
-
+# color palettes
+# https://bookdown.org/hneth/ds4psy/D-5-apx-colors-define-use-custom.html
 
 
 
