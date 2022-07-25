@@ -17,7 +17,7 @@ The goal is to use your data visualisation and analysis skills to explore the da
 
 Once we've shared a data set via Twitter/Slack, we'll update the table of data sets with the date we've done so.
 
-We welcome all newcomers, enthusiasts and experts
+We welcome everyone to participate; newcomers, enthusiasts and experts.
 
 Things to remember:
 
