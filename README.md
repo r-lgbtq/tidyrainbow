@@ -11,14 +11,11 @@ The datasets in this repository focus on data that is **not binary in gender and
 
 ## Get involved!
 
-Inspired by [TidyTuesday](https://github.com/rfordatascience/tidytuesday) and the [R for Data Science community](https://www.rfordatasci.com/), we will also share, via our [twitter](https://twitter.com/R_LGBTQ) account, and on our [slack](https://rainbowr.slack.com) (sign up for our slack [here](https://docs.google.com/forms/d/1y7SOWE3IW-fpR_5Cd4mK-CMUpFZ-hvhY4cTj34JqTVE/)) these data sets, one every two weeks or so. 
+Inspired by [TidyTuesday](https://github.com/rfordatascience/tidytuesday) and the [R for Data Science community](https://www.rfordatasci.com/), we will also share, via our [twitter](https://twitter.com/R_LGBTQ) account and on our [slack](https://rainbowr.slack.com) (sign up for our slack [here](https://docs.google.com/forms/d/1y7SOWE3IW-fpR_5Cd4mK-CMUpFZ-hvhY4cTj34JqTVE/)) these data sets, one every two weeks or so. 
 
 The goal is to use your data visualisation and analysis skills to explore the data - whatever you're inspired to do - and to share your insights (using #TidyRainbow on twitter). The data will not always be tidy but should always be manageable!
 
 Once we've shared a data set via Twitter/Slack, we'll update the table of data sets with the date we've done so.
-
-
---- 
 
 We welcome all newcomers, enthusiasts and experts
 
@@ -38,29 +35,31 @@ Things to remember:
   
   7. Focus on learning something from the data!
 
-
 ## Submitting Datasets
 
 If you found a dataset that is LGBTQ+ inclusive, please do share it!
 
-**Submit the dataset as an [Issue](https://github.com/r-lgbtq/tidyrainbow/issues)**  
-a. Find an interesting dataset  
-b. Find a report, blog post, article etc relevant to the data   
-c. Submit the dataset as an [Issue](https://github.com/r-lgbtq/tidyrainbow/issues) along with a link to the article  
+**Submit the dataset as an [Issue](https://github.com/r-lgbtq/tidyrainbow/issues):s**  
+
+1. Find an interesting dataset  
+
+2. Find a report, blog post, article etc relevant to the data   
+
+3. Submit the dataset as an [Issue](https://github.com/r-lgbtq/tidyrainbow/issues) along with a link to the article  
 
 
 ## Alt Text
 
 Please add alt-text (alternative text) to your graphics for #TidyRainbow. 
 
-TL;DR on what to write
+**TL;DR on what to write:**
 
-- **Chart type**, line plot, bar plot, etc
-- **Type of data**, what is on x-axis? what is on y-axis?
-- **Why** , why you made the plot graphic
-- **Link** , link to the data or source
+- **Chart type:** line plot, bar plot, etc
+- **Type of data:* what is on x-axis? what is on y-axis?
+- **Why:** why you made the plot graphic
+- **Link:** link to the data or source
 
-The longer version:
+**The longer version:**
 
 Twitter provides [guidelines](https://help.twitter.com/en/using-twitter/picture-descriptions) for how to add alt text to your images.
 
@@ -85,4 +84,4 @@ Penn State has an [article](https://accessibility.psu.edu/images/charts/) on wri
 
 The `{rtweet}` package includes the [ability to post tweets](https://docs.ropensci.org/rtweet/reference/post_tweet.html) with alt text programatically.
 
-Need a **reminder**? There are [extensions](https://chrome.google.com/webstore/detail/twitter-required-alt-text/fpjlpckbikddocimpfcgaldjghimjiik/related) that force you to remember to add Alt Text to Tweets with media.
+Need a **reminder?** There are [extensions](https://chrome.google.com/webstore/detail/twitter-required-alt-text/fpjlpckbikddocimpfcgaldjghimjiik/related) that force you to remember to add Alt Text to Tweets with media.
