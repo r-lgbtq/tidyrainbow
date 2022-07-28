@@ -3,11 +3,11 @@
 
 ## A social data project in R
 
-TidyRainbow is a data project aimed at the LGBTQ+ community who use the R language ecosystem.
+TidyRainbow is a data project for the LGBTQ+ community who use the R language ecosystem.
 
 This is borne out of the lack of LGBTQ+ representation in the data sets widely used in data science. This repository will host a collection of data sets that are LGBTQ+ inclusive. We encourage their use as examples when teaching and practicing data science.
 
-The datasets in this repository focus on data that is **not binary in gender and where sexuality is beyond the assumption of heterosexuality, where LGBTQ+ people/persons are explicitly included**, as well as data that is of specific interest to LGBTQ+ folk because of the impact it has on the community.
+The data sets in this repository focus on data pertaining to the LGBTQ+ community. We also look for data sets where LGBTQ+ folk are explicitly represented and where it is not assumed that gender is binary. Additionally, we include data sets that are relevant to LGBTQ+ folk because of the impact it has on the community.
 
 ## Get involved!
 
