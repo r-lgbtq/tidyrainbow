@@ -13,7 +13,6 @@ each week will have a folder to contain all files
 |     |       | [Gender Based Violence](gender-based-violence)           | StatsCan   |         |
 |     |       | [Marital Status LGB Canadians](same-sex-marriages-Canada)    | StatsCan   |         |
 |     |      | [LGBTQIA Qualifty of Life Survey](LGBTQ-quality-of-life) | data.world |         |
-
 |     |     | [Rainbow Europe - ILGA](ILGA-rainbow-Europe)           | Rainbow Europe  |    |
 |     |      | [LA LGBTQ Resources](LA-LGBTQ-resources)              | LA Open Data    |    |
 |     |        | [Sexual Orientation UK](sexual-orientation-UK)           | National Stats UK  | |
