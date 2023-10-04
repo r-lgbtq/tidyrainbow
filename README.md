@@ -11,11 +11,11 @@ The data sets in this repository focus on data pertaining to the LGBTQ+ communit
 
 ## Get involved!
 
-Inspired by [TidyTuesday](https://github.com/rfordatascience/tidytuesday) and the [R for Data Science community](https://www.rfordatasci.com/), we will also share, via our [twitter](https://twitter.com/R_LGBTQ) account and on our [slack](https://rainbowr.slack.com) (sign up for our slack [here](https://docs.google.com/forms/d/1y7SOWE3IW-fpR_5Cd4mK-CMUpFZ-hvhY4cTj34JqTVE/)) these data sets, one every two weeks or so. 
+Inspired by [TidyTuesday](https://github.com/rfordatascience/tidytuesday) and the [R for Data Science community](https://www.rfordatasci.com/), we will also share, via our [mastodon](https://tech.lgbt/@rainbowR) account and on our [slack](https://rainbowr.slack.com) (sign up for our slack [here](https://docs.google.com/forms/d/1y7SOWE3IW-fpR_5Cd4mK-CMUpFZ-hvhY4cTj34JqTVE/)) these data sets, one every two weeks or so. 
 
 The goal is to use your data visualisation and analysis skills to explore the data - whatever you're inspired to do - and to share your insights (using #TidyRainbow on twitter). The data will not always be tidy but should always be manageable!
 
-Once we've shared a data set via Twitter/Slack, we'll update the table of data sets with the date we've done so.
+Once we've shared a data set via Mastodon/Slack, we'll update the table of data sets with the date we've done so.
 
 We welcome everyone to participate; newcomers, enthusiasts and experts.
 
