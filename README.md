@@ -1,5 +1,5 @@
 
-<img  src='./assets/tidyRainbow.png'>
+<img  src='./assets/tidyRainbow.svg'>
 
 ## A social data project in R
 
