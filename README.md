@@ -1,5 +1,4 @@
-
-<img  src='./assets/tidyRainbow.svg'>
+![](assets/tidyRainbow.svg) 
 
 ## A social data project in R
 
