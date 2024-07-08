@@ -46,8 +46,13 @@ How to proceed?
 
 ## Datasets
 
-Datasets included in the tidyRainbow repository.
-- see the [data folder](https://github.com/r-lgbtq/tidyrainbow/tree/main/data)
+Datasets shared from tidyRainbow repository:
+
+| | Date | Dataset | Source | Reference
+| :---: | :---: | :--- | :--- | :---|
+| 1 | June 2024 | [LGBTQ Movie Database](https://github.com/rfordatascience/tidytuesday/tree/master/data/2024/2024-06-25/readme.md) | [movieData.csv](https://raw.githubusercontent.com/r-lgbtq/tidyrainbow/main/data/LGBTQ-movie-database/movieData.csv) | [TidyTuesday repo](https://github.com/rfordatascience/tidytuesday/tree/master/data/2024/2024-06-25) | 
+
+Datasets not yet shared: See the [data folder](https://github.com/r-lgbtq/tidyrainbow/tree/main/data).
 
 Datasets not included in the tidyRainbow repository:
 - [Sex Differences Across Sexual Orientation and Sexual Identity](https://osf.io/8tnd4/)
