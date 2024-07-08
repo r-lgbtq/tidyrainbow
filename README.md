@@ -17,6 +17,7 @@ Inspired by [TidyTuesday](https://github.com/rfordatascience/tidytuesday) and th
 
 To promote the use of the taidyRainbow datasets, rainbowR will share every tidyRainbow dataset on social media, via our [mastodon](https://tech.lgbt/@rainbowR) account and on our [slack](https://rainbowr.slack.com) (sign up for our slack by joining rainbowR [here](https://rainbowr.org/join)). Then, you can use your data visualisation and analysis skills to explore the data--whatever you're inspired to do--and to share your insights online using the #tidyRainbow hashtag. The data will not always be tidy but should always be manageable! 
 
+> [!TIP]
 > We welcome everyone to participate: newcomers, enthusiasts, and experts!
 
 How to proceed?
@@ -49,7 +50,7 @@ Datasets not included in the tidyRainbow repository:
 
 ## Background info 
 
-Please always add alt-text (alternative text) when you share your graphics for #tidyRainbow. And please always check the license of the data when you submit a dataset to the tidyRainbow repository.
+Please always add alt-text (alternative text) when you share your graphics for #tidyRainbow. Please always check the license of the data when you submit a dataset to the tidyRainbow repository. And please always adhere to the rainbowR code of conduct.
 
 ### Alt Text
 
@@ -86,3 +87,7 @@ A license tells you if and how data can be re-used. It allows us to include data
 
 This [blog post](https://odissei-data.nl/en/2024/04/how-can-i-use-this-data-the-importance-of-licences-to-facilitate-reuse/) by ODISSEI explains how liceses relate to research data [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10986072.svg)](https://doi.org/10.5281/zenodo.10986072):
 > A licence allows the copyright holder of the material to set the conditions under which others can reuse that material. In a data repository, the licence for a dataset is typically chosen by the depositor of the data, and it should be displayed as part of the metadata.
+
+### Code of Conduct
+
+All rainbowR projects fall under the [rainbowR code of conduct](https://rainbowr.org/CoC.html). Please make sure to adhere to our code of conduct when participating in the tidyRainbow project.
