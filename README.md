@@ -1,5 +1,9 @@
 ![](assets/tidyRainbow.svg) 
 
+# tidyRainbow LGBTQ+ datasets
+
+This repository contains datasets about LGBTQ+ topics for you to analyze, visualize, and share. Use the hashtag #tidyRainbow to showcase your work online, or submit a relevant dataset yourself!
+
 ## About tidyRainbow
 
 tidyRainbow is a social data project by [rainbowR](https://rainbowr.org/), a community that supports, promotes and connects LGBTQ+ people who code in the R language, and spreads awareness of LGBTQ+ issues through data-driven activism. The tidyRainbow project aims to encourage the use of LGBTQ+ inclusive datasets for learning R and showcasing R code. For example, for building and sharing data visualizations, or as example datasets for teaching, blogs or vignettes.
@@ -13,7 +17,7 @@ Inspired by [TidyTuesday](https://github.com/rfordatascience/tidytuesday) and th
 - use the tidyRainbow datasets to practise programming in R, or share R code examples
 - contribute a dataset to the tidyRainbow repository.
 
-### Using tidyRainbow datesets
+### Using tidyRainbow datasets
 
 To promote the use of the taidyRainbow datasets, rainbowR will share every tidyRainbow dataset on social media, via our [mastodon](https://tech.lgbt/@rainbowR) account and on our [slack](https://rainbowr.slack.com) (sign up for our slack by joining rainbowR [here](https://rainbowr.org/join)). Then, you can use your data visualisation and analysis skills to explore the data--whatever you're inspired to do--and to share your insights online using the #tidyRainbow hashtag. The data will not always be tidy but should always be manageable! 
 
