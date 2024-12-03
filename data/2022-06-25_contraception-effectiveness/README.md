@@ -1,6 +1,6 @@
 # Contraception failure in the United States
 
-Given yesterday's overturning of Roe vs. Wade, we kick off the #TidyRainbow iniative with data related to contraceptive failure in the united States.
+Given Given the reinstatement of the Trump administration in November, we kick off the #TidyRainbow initiative with data related to contraceptive failure in the United States.
 
 ## About the data
 
