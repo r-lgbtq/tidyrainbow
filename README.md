@@ -19,7 +19,7 @@ Inspired by [TidyTuesday](https://github.com/rfordatascience/tidytuesday) and th
 
 ### Using tidyRainbow datasets
 
-To promote the use of the taidyRainbow datasets, rainbowR will share every tidyRainbow dataset on social media, via our [mastodon](https://tech.lgbt/@rainbowR) account and on our [slack](https://rainbowr.slack.com) (sign up for our slack by joining rainbowR [here](https://rainbowr.org/join)). Then, you can use your data visualisation and analysis skills to explore the data--whatever you're inspired to do--and to share your insights online using the #tidyRainbow hashtag. The data will not always be tidy but should always be manageable! 
+To promote the use of the tidyRainbow datasets, rainbowR will share every tidyRainbow dataset on social media, via our [mastodon](https://tech.lgbt/@rainbowR) account and on our [slack](https://rainbowr.slack.com) (sign up for our slack by joining rainbowR [here](https://rainbowr.org/join)). Then, you can use your data visualisation and analysis skills to explore the data--whatever you're inspired to do--and to share your insights online using the #tidyRainbow hashtag. The data will not always be tidy but should always be manageable! 
 
 > [!TIP]
 > We welcome everyone to participate: newcomers, enthusiasts, and experts!
