@@ -61,6 +61,8 @@ These datasets are relevant to tidyRainbow but are not hosted in this repository
 | Dataset | Source | Why it is linked |
 | :--- | :--- | :--- |
 | [Sex Differences Across Sexual Orientation and Sexual Identity](https://osf.io/8tnd4/) | OSF | The dataset is relevant to the project, but it is not included in the repository. |
+| [PRRI July 2018 LGBT Survey](https://osf.io/w5qud) | OSF | Public LGBTQ survey dataset that is relevant to the project but not hosted here. |
+| [PRRI August 2016 LGBT Survey](https://osf.io/nefxy) | OSF | Public LGBTQ survey dataset that is relevant to the project but not hosted here. |
 
 ## Background info 
 
