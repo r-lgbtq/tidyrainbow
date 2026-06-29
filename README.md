@@ -54,8 +54,13 @@ Datasets shared from tidyRainbow repository:
 
 Datasets not yet shared: See the [data folder](https://github.com/r-lgbtq/tidyrainbow/tree/main/data).
 
-Datasets not included in the tidyRainbow repository:
-- [Sex Differences Across Sexual Orientation and Sexual Identity](https://osf.io/8tnd4/)
+## Linked datasets
+
+These datasets are relevant to tidyRainbow but are not hosted in this repository because they are not currently reusable here.
+
+| Dataset | Source | Why it is linked |
+| :--- | :--- | :--- |
+| [Sex Differences Across Sexual Orientation and Sexual Identity](https://osf.io/8tnd4/) | OSF | The dataset is relevant to the project, but it is not included in the repository. |
 
 ## Background info 
 
