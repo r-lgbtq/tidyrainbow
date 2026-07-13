@@ -1,10 +1,11 @@
 
 # LGBTQIA+ Quality of Life Survey
 
-The city of Austin, Texas, USA is the original source of the survey data. This 
-dataset was retrieved from `data.world`, consisting of 2510 rows and 183 columns.
-Inside the data folder is the three (3) datasets created from the main one, 
-where each dataset shares
+This Quality of Life Survey data was created in 2022 with over 180 questions. It was conducted in the city of Austin, Texas, USA and includes more than 2500 responses. The survey provides an overview on the quality of life in Texas for LGBT individuals, taking into account many different aspects ranging from healthcare coverage to immigration status to happiness. The aim was to document the experiences and lives of LGBTQIA+ people living in Austin.
+
+
+## About the data 
+Inside the data folder are the three (3) datasets created from the main one where each dataset shares the following characteristics of the respondent
 
 - `age_range`
 - `race_ethnicity`
@@ -12,7 +13,7 @@ where each dataset shares
 - `identify_as_intersex` 
 - `gender_identity` 
 
-which could be used for joins.
+Each data set includes a different set of questions from the survey and they can be combined. 
 
 
 ## Data Dictionary
@@ -137,6 +138,7 @@ which could be used for joins.
 | neurodivergence_diagnosis                                  | char    | been diagnosed with any neurodivergence                                                                                                                      |     |     |
 | feel_acceptance_belonging                                  | char    | feel a sense of belonging and acceptance (with/ at)                                                                                                          |     |     |
 | partner_uses_tobacco                                       | char    | spouse/ partner/ significant other use tobacco products                                                                                                      |     |     |
+
 
 
 
